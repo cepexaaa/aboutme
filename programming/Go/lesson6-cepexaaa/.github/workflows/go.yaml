@@ -1,0 +1,44 @@
+name: Go
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: edu-self-hosted
+    timeout-minutes: 10
+    container:
+      image: golang:1.23-bookworm
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fix git ownership
+        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+      - name: Build
+        run: |
+          go mod tidy
+          go build -v ./...
+
+      - name: Lint
+        uses: golangci/golangci-lint-action@v5
+        with:
+          version: v1.64.8
+          args: --out-format=colored-line-number
+
+      - name: Fuzzing test
+        run: |
+          go list ./... | grep -vE '(test|scripts|cmd|mock|gen)' | xargs -I{} go test -fuzz=Fuzz -fuzztime=10s {}
+
+      - name: Test
+        run: |
+          go test -v -race -coverprofile=./cover.out -covermode=atomic -coverpkg=$(go list ./... | grep -vE '(test|scripts|cmd|mock|gen)' | tr '\n' ',') ./...
+
+      - name: Check coverage
+        uses: vladopajic/go-test-coverage@v2
+        with:
+          profile: cover.out
+          threshold-total: 80

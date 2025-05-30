@@ -1,0 +1,15 @@
+info/kgeorgiy/ja/kubesh/bank/rmi/RemotePerson.class
+info/kgeorgiy/ja/kubesh/bank/test/TestRunner.class
+info/kgeorgiy/ja/kubesh/bank/rmi/Person.class
+info/kgeorgiy/ja/kubesh/bank/rmi/LocalPerson.class
+info/kgeorgiy/ja/kubesh/bank/rmi/Bank.class
+info/kgeorgiy/ja/kubesh/bank/rmi/RemoteBank.class
+info/kgeorgiy/ja/kubesh/bank/rmi/Account.class
+info/kgeorgiy/ja/kubesh/bank/test/PersonTest.class
+info/kgeorgiy/ja/kubesh/bank/rmi/LocalAccount.class
+info/kgeorgiy/ja/kubesh/bank/test/MoveAmountTest.class
+info/kgeorgiy/ja/kubesh/bank/rmi/Client.class
+info/kgeorgiy/ja/kubesh/bank/test/RemoteTest.class
+info/kgeorgiy/ja/kubesh/bank/rmi/RemoteAccount.class
+info/kgeorgiy/ja/kubesh/bank/test/LocalTest.class
+info/kgeorgiy/ja/kubesh/bank/test/BankTest.class

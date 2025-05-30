@@ -1,0 +1,2171 @@
+--- Collecting top data at Mon Dec 23 12:57:54 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1994.0 free,   1199.3 used,    988.9 buff/cache     
+MiB Swap:   3916.0 total,   3916.0 free,      0.0 used.   2716.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0  192760 186240   3200 R  49.7   4.6   0:05.11 mem.bash
+   4381 ubuntu    20   0  195664 188928   3200 R  48.7   4.7   0:05.08 mem2.ba+
+   3411 ubuntu    20   0 3826000 254648 127828 R   1.5   6.4   0:16.43 gnome-s+
+   3841 ubuntu    20   0  389368   8064   7040 S   0.5   0.2   0:00.11 gvfs-af+
+   4388 ubuntu    20   0   14504   5376   3328 R   0.5   0.1   0:00.06 top
+---
+
+--- Collecting top data at Mon Dec 23 12:58:01 PM EST 2024 ---
+Tasks: 218 total,   5 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1522.0 free,   1670.9 used,    989.3 buff/cache     
+MiB Swap:   3916.0 total,   3916.0 free,      0.0 used.   2245.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0  365152 358528   3200 R  84.6   8.9   0:09.94 mem.bash
+   4381 ubuntu    20   0  366472 359936   3200 R  84.6   9.0   0:10.03 mem2.ba+
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:06 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1186.3 free,   2006.3 used,    989.7 buff/cache     
+MiB Swap:   3916.0 total,   3916.0 free,      0.0 used.   1909.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0  530284 523776   3200 R  95.5  13.1   0:14.58 mem.bash
+   4381 ubuntu    20   0  528040 521472   3200 R  95.5  13.0   0:14.67 mem2.ba+
+   4411 ubuntu    20   0   14504   5504   3456 R   1.1   0.1   0:00.03 top
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:10 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    983.0 free,   2209.4 used,    989.9 buff/cache     
+MiB Swap:   3916.0 total,   3916.0 free,      0.0 used.   1706.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0  602224 595584   3200 R  78.6  14.9   0:16.68 mem.bash
+   4381 ubuntu    20   0  598000 591488   3200 R  78.6  14.7   0:16.81 mem2.ba+
+   4421 ubuntu    20   0   14504   5504   3456 R   7.1   0.1   0:00.02 top
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:13 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    801.2 free,   2391.2 used,    989.9 buff/cache     
+MiB Swap:   3916.0 total,   3916.0 free,      0.0 used.   1524.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0  763396 756864   3200 R  76.9  18.9   0:21.60 mem2.ba+
+   4380 ubuntu    20   0  770524 763904   3200 R  69.2  19.0   0:21.47 mem.bash
+     17 root      20   0       0      0      0 I   7.7   0.0   0:00.79 rcu_pre+
+   3411 ubuntu    20   0 3826000 254648 127828 S   7.7   6.4   0:16.68 gnome-s+
+   4087 ubuntu    20   0  218224   3356   2944 S   7.7   0.1   0:00.43 VBoxCli+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:17 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    470.9 free,   2721.2 used,    990.1 buff/cache     
+MiB Swap:   3916.0 total,   3916.0 free,      0.0 used.   1194.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0  868072 861440   3200 R  73.3  21.5   0:24.58 mem2.ba+
+   4380 ubuntu    20   0  871372 864768   3200 R  66.7  21.6   0:24.38 mem.bash
+     64 root       0 -20       0      0      0 I   6.7   0.0   0:01.14 kworker+
+   3411 ubuntu    20   0 3826000 254648 127828 S   6.7   6.4   0:16.69 gnome-s+
+   3933 ubuntu    39  19  734924  31960  18388 S   6.7   0.8   0:00.94 tracker+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:20 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    276.2 free,   2915.5 used,    990.5 buff/cache     
+MiB Swap:   3916.0 total,   3916.0 free,      0.0 used.   1000.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0  962848 956160   3200 R  62.5  23.8   0:27.29 mem.bash
+   4381 ubuntu    20   0  959680 953088   3200 R  56.2  23.8   0:27.50 mem2.ba+
+   3411 ubuntu    20   0 3826000 254648 127828 S  12.5   6.4   0:16.71 gnome-s+
+   3933 ubuntu    39  19  734924  31960  18388 S   6.2   0.8   0:00.97 tracker+
+   4450 ubuntu    20   0   14504   5504   3456 R   6.2   0.1   0:00.03 top
+---
+
+--- Collecting top data at Mon Dec 23 12:58:24 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    198.2 free,   3092.6 used,    891.4 buff/cache     
+MiB Swap:   3916.0 total,   3916.0 free,      0.0 used.    823.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 1040728   1.0g   3200 R  91.7  25.8   0:29.66 mem.bash
+   4381 ubuntu    20   0 1040860   1.0g   3200 R  91.7  25.8   0:30.00 mem2.ba+
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:26 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    170.8 free,   3220.3 used,    791.6 buff/cache     
+MiB Swap:   3916.0 total,   3915.7 free,      0.3 used.    695.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 1127188   1.1g   3200 R  73.3  27.9   0:31.78 mem.bash
+   4381 ubuntu    20   0 1130224   1.1g   3200 R  66.7  28.0   0:32.22 mem2.ba+
+     37 root      20   0       0      0      0 R  13.3   0.0   0:00.12 kcompac+
+     10 root       0 -20       0      0      0 I   6.7   0.0   0:00.67 kworker+
+    199 root      20   0       0      0      0 S   6.7   0.0   0:00.35 jbd2/dm+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:29 PM EST 2024 ---
+Tasks: 217 total,   3 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    122.8 free,   3376.2 used,    677.9 buff/cache     
+MiB Swap:   3916.0 total,   3913.7 free,      2.3 used.    539.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 1201900   1.1g   3200 R  95.8  29.8   0:34.16 mem2.ba+
+   4380 ubuntu    20   0 1198732   1.1g   3200 R  66.7  29.7   0:33.68 mem.bash
+     53 root      20   0       0      0      0 S  16.7   0.0   0:00.29 kswapd0
+   4477 ubuntu    39  19  313088  15744  13952 R   8.3   0.4   0:00.03 tracker+
+     17 root      20   0       0      0      0 I   4.2   0.0   0:00.80 rcu_pre+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:31 PM EST 2024 ---
+Tasks: 218 total,   5 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    105.0 free,   3541.5 used,    536.0 buff/cache     
+MiB Swap:   3916.0 total,   3907.7 free,      8.3 used.    374.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 1269088   1.2g   3200 R  85.7  30.8   0:36.02 mem2.ba+
+   4380 ubuntu    20   0 1265656   1.2g   3200 R  78.6  30.8   0:35.48 mem.bash
+   4096 ubuntu    20   0  218740   3200   2816 S   7.1   0.1   0:02.22 VBoxCli+
+   4487 ubuntu    20   0   14504   5376   3328 R   7.1   0.1   0:00.02 top
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:33 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    112.7 free,   3580.8 used,    469.7 buff/cache     
+MiB Swap:   3916.0 total,   3841.8 free,     74.2 used.    335.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  60.9   0.0   0:01.11 kswapd0
+   4380 ubuntu    20   0 1318324   1.2g   3200 R  21.7  31.5   0:37.09 mem.bash
+   4381 ubuntu    20   0 1321096   1.2g   3200 R  21.7  31.5   0:37.63 mem2.ba+
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:35 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    149.7 free,   3577.0 used,    431.4 buff/cache     
+MiB Swap:   3916.0 total,   3731.2 free,    184.8 used.    339.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 1373896   1.2g   3200 R  91.7  31.9   0:38.80 mem.bash
+   4381 ubuntu    20   0 1377988   1.2g   3200 R  91.7  31.9   0:39.42 mem2.ba+
+   4503 ubuntu    20   0   14504   5504   3456 R   8.3   0.1   0:00.03 top
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:37 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    168.6 free,   3569.9 used,    417.5 buff/cache     
+MiB Swap:   3916.0 total,   3641.1 free,    274.9 used.    346.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 1429072   1.2g   3200 R  92.3  32.2   0:40.83 mem2.ba+
+   4380 ubuntu    20   0 1426564   1.2g   3200 R  76.9  32.3   0:40.34 mem.bash
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:39 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    151.8 free,   3596.5 used,    406.4 buff/cache     
+MiB Swap:   3916.0 total,   3562.9 free,    353.1 used.    319.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R 100.0   0.0   0:02.93 kswapd0
+   4381 ubuntu    20   0 1473424   1.2g   3200 R  41.2  32.3   0:42.14 mem2.ba+
+   4380 ubuntu    20   0 1470256   1.2g   3200 R  35.3  32.3   0:41.68 mem.bash
+   4518 ubuntu    20   0   14504   5504   3456 R  11.8   0.1   0:00.03 top
+     17 root      20   0       0      0      0 I   5.9   0.0   0:00.86 rcu_pre+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:41 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    127.5 free,   3632.9 used,    398.1 buff/cache     
+MiB Swap:   3916.0 total,   3470.4 free,    445.6 used.    283.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  90.9   0.0   0:03.59 kswapd0
+   4380 ubuntu    20   0 1532560   1.3g   3200 R  54.5  33.0   0:43.57 mem.bash
+   4381 ubuntu    20   0 1536916   1.3g   3200 R  54.5  32.9   0:43.98 mem2.ba+
+   4527 ubuntu    20   0   14504   5504   3456 R   9.1   0.1   0:00.01 top
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:43 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    104.8 free,   3660.7 used,    389.2 buff/cache     
+MiB Swap:   3916.0 total,   3336.6 free,    579.4 used.    255.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 1620076   1.3g   3200 R  52.6  33.0   0:45.68 mem.bash
+   4381 ubuntu    20   0 1625752   1.3g   3200 R  47.4  33.0   0:45.99 mem2.ba+
+     53 root      20   0       0      0      0 S  26.3   0.0   0:04.41 kswapd0
+   4534 ubuntu    39  19  304316  14976  13440 R  10.5   0.4   0:00.12 tracker+
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:46 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    124.4 free,   3642.6 used,    387.4 buff/cache     
+MiB Swap:   3916.0 total,   3217.4 free,    698.6 used.    273.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  85.7   0.0   0:05.12 kswapd0
+   4380 ubuntu    20   0 1666540   1.3g   3200 R  42.9  33.2   0:46.93 mem.bash
+   4381 ubuntu    20   0 1676704   1.3g   3200 R  42.9  33.4   0:47.23 mem2.ba+
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:48 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    148.6 free,   3640.3 used,    371.7 buff/cache     
+MiB Swap:   3916.0 total,   3103.0 free,    813.0 used.    275.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 1723432   1.3g   3200 R  84.6  33.2   0:48.45 mem.bash
+   4381 ubuntu    20   0 1739272   1.3g   3200 R  84.6  33.5   0:48.83 mem2.ba+
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:50 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    204.7 free,   3594.9 used,    353.1 buff/cache     
+MiB Swap:   3916.0 total,   2973.0 free,    943.0 used.    321.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 1791544   1.3g   3072 R  92.3  34.0   0:50.23 mem2.ba+
+   4380 ubuntu    20   0 1772272   1.3g   3072 R  69.2  33.6   0:49.82 mem.bash
+   4565 ubuntu    20   0   14504   5504   3456 R  15.4   0.1   0:00.03 top
+   3411 ubuntu    20   0 3826000 180152  83924 S   7.7   4.5   0:16.85 gnome-s+
+   4195 ubuntu    20   0  701568  40748  33680 S   7.7   1.0   0:02.85 gnome-t+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:51 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    161.2 free,   3641.7 used,    349.9 buff/cache     
+MiB Swap:   3916.0 total,   2923.7 free,    992.3 used.    274.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R 100.0   0.0   0:07.70 kswapd0
+   4380 ubuntu    20   0 1808308   1.3g   3072 R  50.0  33.5   0:50.90 mem.bash
+   4381 ubuntu    20   0 1828240   1.3g   3072 R  50.0  34.0   0:51.28 mem2.ba+
+   4573 ubuntu    20   0   14504   5504   3456 R  10.0   0.1   0:00.01 top
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:53 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    145.1 free,   3657.5 used,    350.2 buff/cache     
+MiB Swap:   3916.0 total,   2844.8 free,   1071.2 used.    258.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R 100.0   0.0   0:08.45 kswapd0
+   4380 ubuntu    20   0 1858336   1.3g   3072 R  45.5  33.6   0:52.14 mem.bash
+   4381 ubuntu    20   0 1875892   1.3g   3072 R  45.5  34.0   0:52.49 mem2.ba+
+   4096 ubuntu    20   0  218740   3200   2816 S   9.1   0.1   0:02.29 VBoxCli+
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:55 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    187.4 free,   3666.2 used,    297.2 buff/cache     
+MiB Swap:   3916.0 total,   2757.2 free,   1158.8 used.    249.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 1918792   1.3g   3072 R  84.6  34.9   0:53.54 mem.bash
+   4381 ubuntu    20   0 1934500   1.3g   3072 R  84.6  35.2   0:53.89 mem2.ba+
+   4589 ubuntu    20   0   14504   5504   3456 R   7.7   0.1   0:00.01 top
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.19 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:58:57 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    126.4 free,   3756.5 used,    267.4 buff/cache     
+MiB Swap:   3916.0 total,   2736.6 free,   1179.4 used.    159.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 1979380   1.4g   3072 R  80.0  36.4   0:55.24 mem.bash
+   4381 ubuntu    20   0 1992184   1.4g   3072 R  46.7  36.6   0:55.48 mem2.ba+
+     53 root      20   0       0      0      0 S  33.3   0.0   0:09.11 kswapd0
+   4593 ubuntu    39  19  326276  28320  23328 R  20.0   0.7   0:00.14 tracker+
+   2179 root      20   0  283996   2176   2048 S   6.7   0.1   0:00.37 VBoxDRM+
+---
+
+--- Collecting top data at Mon Dec 23 12:58:59 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    120.2 free,   3795.8 used,    233.7 buff/cache     
+MiB Swap:   3916.0 total,   2665.0 free,   1251.0 used.    120.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2044984   1.5g   3072 R  76.9  38.0   0:57.02 mem.bash
+   4381 ubuntu    20   0 2044192   1.5g   3072 R  76.9  37.9   0:56.88 mem2.ba+
+     64 root       0 -20       0      0      0 R   7.7   0.0   0:01.43 kworker+
+   3933 ubuntu    39  19  734924  27352  17364 R   7.7   0.7   0:01.30 tracker+
+      1 root      20   0   23272  14132   9396 S   0.0   0.4   0:07.20 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:01 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    103.1 free,   3824.5 used,    222.0 buff/cache     
+MiB Swap:   3916.0 total,   2602.8 free,   1313.2 used.     91.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2082868   1.5g   3072 R  47.1  39.0   0:58.35 mem.bash
+   4381 ubuntu    20   0 2086960   1.5g   3072 R  47.1  39.0   0:58.30 mem2.ba+
+     53 root      20   0       0      0      0 S  29.4   0.0   0:09.83 kswapd0
+    860 root      20   0 1843880   5564   2944 S  23.5   0.1   0:03.49 snapd
+     10 root       0 -20       0      0      0 I   5.9   0.0   0:00.74 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:02 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    169.8 free,   3761.6 used,    207.3 buff/cache     
+MiB Swap:   3916.0 total,   2480.9 free,   1435.1 used.    154.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2106760   1.5g   3072 R  66.7  38.6   0:59.46 mem.bash
+   4381 ubuntu    20   0 2114416   1.5g   3072 R  66.7  38.8   0:59.36 mem2.ba+
+   4624 ubuntu    20   0   14504   5504   3456 R   6.7   0.1   0:00.02 top
+      1 root      20   0   23272  12980   9396 S   0.0   0.3   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:04 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    118.7 free,   3812.7 used,    207.0 buff/cache     
+MiB Swap:   3916.0 total,   2419.3 free,   1496.7 used.    103.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  90.9   0.0   0:11.13 kswapd0
+   4380 ubuntu    20   0 2160484   1.5g   3072 R  63.6  39.2   1:00.87 mem.bash
+   4381 ubuntu    20   0 2166424   1.5g   3072 R  54.5  39.4   1:00.81 mem2.ba+
+      1 root      20   0   23272  12980   9396 S   0.0   0.3   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:06 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    177.9 free,   3749.7 used,    211.5 buff/cache     
+MiB Swap:   3916.0 total,   2283.1 free,   1632.9 used.    166.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2201536   1.5g   3072 R  83.3  38.6   1:02.02 mem.bash
+   4381 ubuntu    20   0 2215264   1.5g   3072 R  75.0  39.0   1:02.02 mem2.ba+
+   4641 ubuntu    20   0   14504   5504   3456 R  16.7   0.1   0:00.02 top
+     64 root       0 -20       0      0      0 I   8.3   0.0   0:01.79 kworker+
+     65 root      20   0       0      0      0 I   8.3   0.0   0:01.16 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:08 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    119.5 free,   3811.1 used,    208.3 buff/cache     
+MiB Swap:   3916.0 total,   2243.2 free,   1672.8 used.    105.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2251828   1.5g   3072 R 100.0  39.2   1:03.34 mem.bash
+     53 root      20   0       0      0      0 R  80.0   0.0   0:12.52 kswapd0
+   4381 ubuntu    20   0 2263840   1.5g   3072 R  50.0  39.7   1:03.22 mem2.ba+
+   4649 ubuntu    20   0   14504   5504   3456 R  10.0   0.1   0:00.01 top
+      1 root      20   0   23272  12468   9396 S   0.0   0.3   0:07.20 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:10 PM EST 2024 ---
+Tasks: 216 total,   3 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    135.9 free,   3793.3 used,    209.9 buff/cache     
+MiB Swap:   3916.0 total,   2164.1 free,   1751.9 used.    122.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  92.9   0.0   0:13.31 kswapd0
+   4380 ubuntu    20   0 2301724   1.5g   3072 R  42.9  39.5   1:04.47 mem.bash
+   4381 ubuntu    20   0 2314000   1.5g   3072 R  42.9  40.0   1:04.56 mem2.ba+
+     17 root      20   0       0      0      0 I   7.1   0.0   0:01.00 rcu_pre+
+    806 root      20   0       0      0      0 I   7.1   0.0   0:00.71 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:11 PM EST 2024 ---
+Tasks: 216 total,   3 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    181.6 free,   3749.7 used,    207.1 buff/cache     
+MiB Swap:   3916.0 total,   2068.2 free,   1847.8 used.    166.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2321920   1.5g   3072 R  92.3  39.1   1:05.39 mem.bash
+   4381 ubuntu    20   0 2334988   1.5g   3072 R  84.6  39.6   1:05.50 mem2.ba+
+      1 root      20   0   23272  12468   9396 S   0.0   0.3   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:13 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    147.8 free,   3785.7 used,    202.7 buff/cache     
+MiB Swap:   3916.0 total,   2007.8 free,   1908.2 used.    130.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2364160   1.5g   3072 R  62.5  39.0   1:06.64 mem.bash
+   4381 ubuntu    20   0 2376832   1.5g   3072 R  62.5  39.6   1:06.52 mem2.ba+
+     53 root      20   0       0      0      0 S  25.0   0.0   0:15.47 kswapd0
+   4677 ubuntu    20   0   14504   5504   3456 R  12.5   0.1   0:00.03 top
+      1 root      20   0   23272  11956   9396 S   0.0   0.3   0:07.20 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:15 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    180.8 free,   3755.5 used,    196.8 buff/cache     
+MiB Swap:   3916.0 total,   1898.8 free,   2017.2 used.    160.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2407720   1.5g   3072 R 100.0  39.0   1:07.78 mem.bash
+   4381 ubuntu    20   0 2427388   1.5g   3072 R 100.0  39.7   1:07.78 mem2.ba+
+   4684 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.01 top
+      1 root      20   0   23272  11700   9396 S   0.0   0.3   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:16 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    129.2 free,   3808.9 used,    193.2 buff/cache     
+MiB Swap:   3916.0 total,   1848.6 free,   2067.4 used.    107.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R 100.0   0.0   0:17.20 kswapd0
+   4380 ubuntu    20   0 2449432   1.5g   3072 R  46.2  39.4   1:08.89 mem.bash
+   4381 ubuntu    20   0 2471080   1.5g   3072 R  46.2  40.0   1:08.87 mem2.ba+
+      1 root      20   0   23272  11700   9396 S   0.0   0.3   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:18 PM EST 2024 ---
+Tasks: 216 total,   3 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    149.4 free,   3788.7 used,    193.2 buff/cache     
+MiB Swap:   3916.0 total,   1782.4 free,   2133.6 used.    127.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R 100.0   0.0   0:18.36 kswapd0
+   4380 ubuntu    20   0 2492860   1.5g   3072 R  50.0  39.8   1:10.12 mem.bash
+   4381 ubuntu    20   0 2517016   1.5g   3072 R  50.0  40.4   1:10.17 mem2.ba+
+   4699 ubuntu    20   0   14504   5504   3456 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23272  11700   9396 S   0.0   0.3   0:07.20 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:20 PM EST 2024 ---
+Tasks: 215 total,   4 running, 211 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    168.1 free,   3771.2 used,    190.9 buff/cache     
+MiB Swap:   3916.0 total,   1711.6 free,   2204.4 used.    145.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  92.3   0.0   0:19.95 kswapd0
+   4380 ubuntu    20   0 2501572   1.5g   3072 R  38.5  39.0   1:10.88 mem.bash
+   4381 ubuntu    20   0 2526388   1.5g   3072 R  38.5  39.7   1:10.93 mem2.ba+
+   4707 ubuntu    20   0   14504   5376   3328 R   7.7   0.1   0:00.01 top
+      1 root      20   0   23272  11700   9396 S   0.0   0.3   0:07.20 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:22 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    148.9 free,   3791.3 used,    189.0 buff/cache     
+MiB Swap:   3916.0 total,   1635.6 free,   2280.4 used.    124.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  92.3   0.0   0:20.66 kswapd0
+   4380 ubuntu    20   0 2547772   1.5g   3072 R  46.2  39.1   1:12.11 mem.bash
+   4381 ubuntu    20   0 2576284   1.5g   3072 R  38.5  39.9   1:12.14 mem2.ba+
+      1 root      20   0   23272  11700   9396 S   0.0   0.3   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:23 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    107.5 free,   3833.5 used,    187.5 buff/cache     
+MiB Swap:   3916.0 total,   1577.8 free,   2338.2 used.     82.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  92.3   0.0   0:21.42 kswapd0
+   4380 ubuntu    20   0 2602948   1.5g   3072 R  46.2  39.9   1:13.34 mem.bash
+   4381 ubuntu    20   0 2624992   1.6g   3072 R  46.2  40.6   1:13.29 mem2.ba+
+      1 root      20   0   23272  11700   9396 S   0.0   0.3   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:25 PM EST 2024 ---
+Tasks: 216 total,   3 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    122.3 free,   3821.5 used,    181.2 buff/cache     
+MiB Swap:   3916.0 total,   1511.3 free,   2404.7 used.     94.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2647300   1.6g   3072 R  85.7  40.6   1:14.74 mem.bash
+   4381 ubuntu    20   0 2667364   1.6g   3072 R  85.7  41.2   1:14.65 mem2.ba+
+   4735 ubuntu    20   0   14504   5376   3328 R   7.1   0.1   0:00.03 top
+      1 root      20   0   23272  11700   9396 S   0.0   0.3   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:27 PM EST 2024 ---
+Tasks: 216 total,   5 running, 211 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    120.6 free,   3848.3 used,    128.4 buff/cache     
+MiB Swap:   3916.0 total,   1459.6 free,   2456.4 used.     67.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 2730196   1.6g   2944 R  84.6  42.8   1:16.30 mem2.ba+
+   3411 ubuntu    20   0 3826000  72120  38228 R  46.2   1.8   0:17.35 gnome-s+
+   4380 ubuntu    20   0 2691124   1.6g   2944 R  38.5  41.7   1:16.06 mem.bash
+     64 root       0 -20       0      0      0 I   7.7   0.0   0:01.91 kworker+
+      1 root      20   0   23272  11700   9396 S   0.0   0.3   0:07.20 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:29 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    147.4 free,   3841.4 used,     87.2 buff/cache     
+MiB Swap:   3916.0 total,   1378.8 free,   2537.2 used.     74.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 2771116   1.6g   2688 R 100.0  42.4   1:17.57 mem2.ba+
+     53 root      20   0       0      0      0 R  69.2   0.0   0:23.74 kswapd0
+   4380 ubuntu    20   0 2737060   1.6g   2688 R  46.2  41.5   1:17.43 mem.bash
+   4752 ubuntu    20   0   14504   5376   3328 R  15.4   0.1   0:00.02 top
+      1 root      20   0   23272   6324   5940 S   0.0   0.2   0:07.20 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:31 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    121.2 free,   3868.0 used,     86.4 buff/cache     
+MiB Swap:   3916.0 total,   1301.2 free,   2614.7 used.     48.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  92.9   0.0   0:24.56 kswapd0
+   4380 ubuntu    20   0 2786956   1.6g   2688 R  42.9  42.0   1:18.60 mem.bash
+   4381 ubuntu    20   0 2822596   1.6g   2688 R  42.9  42.8   1:18.86 mem2.ba+
+      1 root      20   0   23272   5428   5044 S   0.0   0.1   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:33 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    106.5 free,   3887.8 used,     76.2 buff/cache     
+MiB Swap:   3916.0 total,   1206.1 free,   2709.9 used.     28.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 2892688   1.7g   2688 R 100.0  43.3   1:20.56 mem2.ba+
+   4380 ubuntu    20   0 2850712   1.6g   2688 R  78.6  42.4   1:19.98 mem.bash
+     53 root      20   0       0      0      0 S  21.4   0.0   0:25.24 kswapd0
+     64 root       0 -20       0      0      0 R  14.3   0.0   0:02.03 kworker+
+   3411 ubuntu    20   0 3826000  47416  29140 S  14.3   1.2   0:17.39 gnome-s+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:35 PM EST 2024 ---
+Tasks: 216 total,   7 running, 209 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    169.6 free,   3818.8 used,     88.0 buff/cache     
+MiB Swap:   3916.0 total,   1081.4 free,   2834.6 used.     97.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 2924632   1.6g   2688 R  40.7  42.7   1:21.68 mem2.ba+
+     53 root      20   0       0      0      0 S  37.0   0.0   0:26.31 kswapd0
+   4380 ubuntu    20   0 2874340   1.6g   2688 R  29.6  41.6   1:20.91 mem.bash
+     64 root       0 -20       0      0      0 R  11.1   0.0   0:02.16 kworker+
+     10 root       0 -20       0      0      0 I   7.4   0.0   0:00.98 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:37 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    108.1 free,   3876.1 used,     96.4 buff/cache     
+MiB Swap:   3916.0 total,   1047.0 free,   2869.0 used.     40.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  76.9   0.0   0:26.91 kswapd0
+   4381 ubuntu    20   0 2970568   1.7g   2688 R  46.2  43.4   1:22.75 mem2.ba+
+   4380 ubuntu    20   0 2909056   1.6g   2688 R  30.8  42.0   1:21.89 mem.bash
+    860 root      20   0 1843880  10300   5504 S  23.1   0.3   0:03.81 snapd
+     64 root       0 -20       0      0      0 R   7.7   0.0   0:02.27 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:38 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    101.8 free,   3879.5 used,    102.4 buff/cache     
+MiB Swap:   3916.0 total,    959.1 free,   2956.9 used.     36.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  66.7   0.0   0:27.91 kswapd0
+   4381 ubuntu    20   0 3014392   1.6g   2688 R  60.0  42.9   1:23.85 mem2.ba+
+   4380 ubuntu    20   0 2948128   1.6g   2688 R  20.0  41.4   1:22.97 mem.bash
+   4786 ubuntu    39  19  400232  28604  23484 S  13.3   0.7   0:00.18 tracker+
+   4794 ubuntu    20   0   14504   5504   3456 R   6.7   0.1   0:00.04 top
+---
+
+--- Collecting top data at Mon Dec 23 12:59:40 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    101.5 free,   3876.3 used,    109.1 buff/cache     
+MiB Swap:   3916.0 total,    868.8 free,   3047.2 used.     39.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 2992744   1.6g   2688 R 100.0  41.8   1:24.10 mem.bash
+     53 root      20   0       0      0      0 R  66.7   0.0   0:28.75 kswapd0
+   4381 ubuntu    20   0 3058876   1.7g   2688 R  25.0  43.3   1:24.91 mem2.ba+
+   3933 ubuntu    39  19  734924  15192  10452 S   8.3   0.4   0:01.64 tracker+
+   4786 ubuntu    39  19  400360  28988  23868 S   8.3   0.7   0:00.19 tracker+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:42 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    155.3 free,   3822.4 used,    109.3 buff/cache     
+MiB Swap:   3916.0 total,    785.4 free,   3130.6 used.     93.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3008848   1.6g   2688 R  91.7  41.2   1:24.96 mem.bash
+   4381 ubuntu    20   0 3077356   1.6g   2688 R  91.7  42.8   1:25.75 mem2.ba+
+     53 root      20   0       0      0      0 S   8.3   0.0   0:30.21 kswapd0
+      1 root      20   0   23272   4532   4148 S   0.0   0.1   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:43 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    135.0 free,   3842.9 used,    108.8 buff/cache     
+MiB Swap:   3916.0 total,    730.7 free,   3185.3 used.     73.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R 100.0   0.0   0:31.32 kswapd0
+   4380 ubuntu    20   0 3047392   1.6g   2688 R  50.0  41.4   1:25.92 mem.bash
+   4381 ubuntu    20   0 3107056   1.6g   2688 R  50.0  42.8   1:26.75 mem2.ba+
+   4818 ubuntu    20   0   14504   5376   3328 R  16.7   0.1   0:00.02 top
+      1 root      20   0   23272   4532   4148 S   0.0   0.1   0:07.20 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:45 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    107.0 free,   3870.9 used,    108.9 buff/cache     
+MiB Swap:   3916.0 total,    671.7 free,   3244.3 used.     45.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 3160648   1.7g   2688 R 100.0  43.4   1:28.15 mem2.ba+
+     53 root      20   0       0      0      0 R  68.4   0.0   0:32.27 kswapd0
+   4380 ubuntu    20   0 3102832   1.6g   2688 R  31.6  42.0   1:27.33 mem.bash
+   4826 ubuntu    20   0   14504   5376   3328 R  21.1   0.1   0:00.05 top
+   3411 ubuntu    20   0 3826000  48568  31060 R  10.5   1.2   0:17.55 gnome-s+
+---
+
+--- Collecting top data at Mon Dec 23 12:59:47 PM EST 2024 ---
+Tasks: 217 total,   5 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    117.9 free,   3859.7 used,    109.5 buff/cache     
+MiB Swap:   3916.0 total,    602.4 free,   3313.6 used.     56.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3134512   1.6g   2688 R  75.0  41.8   1:28.63 mem.bash
+   4381 ubuntu    20   0 3183616   1.6g   2688 R  75.0  43.0   1:29.04 mem2.ba+
+   3411 ubuntu    20   0 3826000  62392  31444 D  16.7   1.6   0:17.85 gnome-s+
+      1 root      20   0   23272   4532   4148 S   0.0   0.1   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:49 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    126.8 free,   3850.6 used,    110.0 buff/cache     
+MiB Swap:   3916.0 total,    540.1 free,   3375.9 used.     65.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  85.7   0.0   0:34.80 kswapd0
+   4380 ubuntu    20   0 3153388   1.6g   2688 R  50.0  41.3   1:29.62 mem.bash
+   4381 ubuntu    20   0 3202624   1.6g   2688 R  42.9  42.5   1:29.82 mem2.ba+
+     17 root      20   0       0      0      0 I   7.1   0.0   0:01.18 rcu_pre+
+   4841 ubuntu    20   0   14504   5376   3328 R   7.1   0.1   0:00.01 top
+---
+
+--- Collecting top data at Mon Dec 23 12:59:51 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    109.3 free,   3867.9 used,    110.3 buff/cache     
+MiB Swap:   3916.0 total,    475.3 free,   3440.7 used.     48.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  84.6   0.0   0:35.72 kswapd0
+   4380 ubuntu    20   0 3192988   1.6g   2688 R  46.2  41.5   1:30.71 mem.bash
+   4381 ubuntu    20   0 3245656   1.6g   2688 R  38.5  42.7   1:30.86 mem2.ba+
+      1 root      20   0   23272   4532   4148 S   0.0   0.1   0:07.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:52 PM EST 2024 ---
+Tasks: 217 total,   3 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    152.3 free,   3824.7 used,    110.5 buff/cache     
+MiB Swap:   3916.0 total,    392.0 free,   3524.0 used.     91.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3237472   1.6g   2688 R  48.0  41.6   1:31.96 mem.bash
+     53 root      20   0       0      0      0 R  32.0   0.0   0:36.93 kswapd0
+   4381 ubuntu    20   0 3290140   1.6g   2688 R  28.0  42.8   1:32.04 mem2.ba+
+      1 root      20   0   23272   4532   4148 S   4.0   0.1   0:07.21 systemd
+   4861 ubuntu    20   0   14504   5376   3328 R   4.0   0.1   0:00.02 top
+---
+
+--- Collecting top data at Mon Dec 23 12:59:54 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    194.1 free,   3782.7 used,    111.2 buff/cache     
+MiB Swap:   3916.0 total,    287.6 free,   3628.4 used.    133.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 3312184   1.6g   2688 R 100.0  42.1   1:32.87 mem2.ba+
+   4380 ubuntu    20   0 3258064   1.6g   2688 R  90.9  40.9   1:32.85 mem.bash
+   4869 ubuntu    20   0   14504   5504   3456 R   9.1   0.1   0:00.01 top
+      1 root      20   0   23272   4532   4148 S   0.0   0.1   0:07.21 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:56 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    128.9 free,   3847.6 used,    111.7 buff/cache     
+MiB Swap:   3916.0 total,    244.9 free,   3671.1 used.     68.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R 100.0   0.0   0:39.15 kswapd0
+   4380 ubuntu    20   0 3297400   1.6g   2688 R  50.0  41.2   1:33.90 mem.bash
+   4381 ubuntu    20   0 3352180   1.6g   2688 R  50.0  42.3   1:33.97 mem2.ba+
+   4877 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.01 top
+      1 root      20   0   23272   4532   4148 S   0.0   0.1   0:07.21 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:57 PM EST 2024 ---
+Tasks: 217 total,   3 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    138.2 free,   3838.2 used,    111.9 buff/cache     
+MiB Swap:   3916.0 total,    175.2 free,   3740.8 used.     78.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  91.7   0.0   0:40.07 kswapd0
+   4380 ubuntu    20   0 3339508   1.6g   2688 R  41.7  41.5   1:34.96 mem.bash
+   4381 ubuntu    20   0 3395608   1.6g   2688 R  41.7  42.7   1:35.09 mem2.ba+
+   4885 ubuntu    20   0   14504   5504   3456 R   8.3   0.1   0:00.01 top
+      1 root      20   0   23272   4532   4148 S   0.0   0.1   0:07.21 systemd
+---
+
+--- Collecting top data at Mon Dec 23 12:59:59 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    180.1 free,   3796.2 used,    112.2 buff/cache     
+MiB Swap:   3916.0 total,     93.4 free,   3822.6 used.    119.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3353500   1.6g   2688 R 100.0  40.8   1:35.82 mem.bash
+   4381 ubuntu    20   0 3410656   1.6g   2688 R  75.0  42.0   1:35.90 mem2.ba+
+   3411 ubuntu    20   0 3826000  66360  32852 D  16.7   1.7   0:17.96 gnome-s+
+     10 root       0 -20       0      0      0 I   8.3   0.0   0:01.44 kworker+
+   4892 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.01 top
+---
+
+--- Collecting top data at Mon Dec 23 01:00:01 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    133.5 free,   3841.4 used,    115.1 buff/cache     
+MiB Swap:   3916.0 total,     45.4 free,   3870.6 used.     74.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 3463324   1.6g   2688 R  55.6  42.6   1:37.14 mem2.ba+
+     64 root       0 -20       0      0      0 R  44.4   0.0   0:02.46 kworker+
+     53 root      20   0       0      0      0 D  22.2   0.0   0:42.11 kswapd0
+     10 root       0 -20       0      0      0 I  16.7   0.0   0:01.51 kworker+
+   4380 ubuntu    20   0 3397456   1.6g   2688 R  11.1  41.3   1:36.91 mem.bash
+---
+
+--- Collecting top data at Mon Dec 23 01:00:02 PM EST 2024 ---
+Tasks: 216 total,   3 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    123.6 free,   3870.2 used,     77.3 buff/cache     
+MiB Swap:   3916.0 total,      0.0 free,   3916.0 used.     46.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4381 ubuntu    20   0 3524440   1.7g   2432 R  83.3  43.7   1:38.69 mem2.ba+
+   4380 ubuntu    20   0 3454612   1.6g   2688 R  50.0  42.4   1:38.33 mem.bash
+     53 root      20   0       0      0      0 R  25.0   0.0   0:42.75 kswapd0
+    823 message+  20   0   12208   3840   2432 S  16.7   0.1   0:01.85 dbus-da+
+   2181 root      20   0  290152   2824   2688 S   8.3   0.1   0:00.25 VBoxSer+
+---
+
+--- Collecting top data at Mon Dec 23 01:00:05 PM EST 2024 ---
+Tasks: 218 total,   5 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,     85.8 free,   3830.4 used,     35.2 buff/cache     
+MiB Swap:   3916.0 total,      0.2 free,   3915.8 used.     85.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  62.0   0.0   1:10.85 kswapd0
+    542 systemd+  20   0   17556   1152    896 R  15.8   0.0   0:05.02 systemd+
+   4921 root      20   0   19468   1024    256 R  14.4   0.0   0:03.06 9
+   3411 ubuntu    20   0 3826000  35512   2132 R   6.1   0.9   0:25.64 gnome-s+
+      1 root      20   0   23016   2996    180 S   6.0   0.1   0:09.51 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:01:13 PM EST 2024 ---
+Tasks: 219 total,  20 running, 199 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,     84.4 free,   3831.7 used,     28.9 buff/cache     
+MiB Swap:   3916.0 total,      0.1 free,   3915.9 used.     84.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  38.2   0.0   4:23.91 kswapd0
+      1 root      20   0   23016   4148   1204 R  21.6   0.1   1:43.06 systemd
+    860 root      20   0 1843880   5948    128 S  10.2   0.1   0:50.94 snapd
+    542 systemd+  20   0   17556    384    128 R   4.7   0.0   0:33.24 systemd+
+    548 systemd+  20   0   21516    256      0 R   4.5   0.0   0:21.05 systemd+
+---
+
+--- Collecting top data at Mon Dec 23 01:10:14 PM EST 2024 ---
+Tasks: 219 total,  19 running, 200 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,     81.6 free,   3834.5 used,     27.5 buff/cache     
+MiB Swap:   3916.0 total,      0.2 free,   3915.8 used.     81.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4195 ubuntu    20   0  701568   5804   4368 S  33.3   0.1   0:39.00 gnome-t+
+   4939 root       0 -20       0      0      0 I  33.3   0.0   0:24.36 kworker+
+      1 root      20   0   23016   6196   3764 D  25.0   0.2   2:33.41 systemd
+   4956 ubuntu    20   0   14504   5248   3200 R  16.7   0.1   0:00.90 top
+     10 root       0 -20       0      0      0 I   8.3   0.0   0:23.68 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:23 PM EST 2024 ---
+Tasks: 219 total,   5 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1706.9 free,   2269.2 used,    110.7 buff/cache     
+MiB Swap:   3916.0 total,   1689.7 free,   2226.3 used.   1646.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3523384   1.6g   1792 R 100.0  43.0   2:11.86 mem.bash
+   4926 man       39  19   13396   6272   3840 R  76.9   0.2   0:25.03 mandb
+   3411 ubuntu    20   0 3826000  64568  28628 R  15.4   1.6   1:50.16 gnome-s+
+     10 root       0 -20       0      0      0 I   7.7   0.0   0:24.08 kworker+
+   4975 ubuntu    20   0   14500   5376   3328 R   7.7   0.1   0:00.06 top
+---
+
+--- Collecting top data at Mon Dec 23 01:14:25 PM EST 2024 ---
+Tasks: 218 total,  10 running, 208 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1628.3 free,   2329.8 used,    146.9 buff/cache     
+MiB Swap:   3916.0 total,   1698.0 free,   2218.0 used.   1586.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3561268   1.7g   1920 R  83.3  43.9   2:12.98 mem.bash
+   3411 ubuntu    20   0 3826024  72504  32724 D  25.0   1.8   1:50.40 gnome-s+
+   4929 ubuntu    39  19  313384  22016  18944 D  25.0   0.5   0:23.44 tracker+
+   4939 root       0 -20       0      0      0 I  25.0   0.0   0:25.51 kworker+
+   2179 root      20   0  283996    512    512 S   8.3   0.0   0:29.35 VBoxDRM+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:27 PM EST 2024 ---
+Tasks: 218 total,   6 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1575.3 free,   2373.9 used,    165.2 buff/cache     
+MiB Swap:   3916.0 total,   1706.5 free,   2209.5 used.   1542.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3602056   1.7g   1920 R  75.0  44.9   2:14.41 mem.bash
+   3411 ubuntu    20   0 3826044  84536  40148 R  50.0   2.1   1:50.87 gnome-s+
+   4195 ubuntu    20   0  701568  10028   6800 R  16.7   0.3   0:39.07 gnome-t+
+   4939 root       0 -20       0      0      0 I  16.7   0.0   0:25.86 kworker+
+     17 root      20   0       0      0      0 I   8.3   0.0   0:01.87 rcu_pre+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:28 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1529.6 free,   2413.0 used,    181.5 buff/cache     
+MiB Swap:   3916.0 total,   1718.5 free,   2197.5 used.   1503.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3623968   1.7g   1920 R  90.9  45.5   2:15.75 mem.bash
+   3411 ubuntu    20   0 3826452  94264  46548 R  45.5   2.4   1:51.44 gnome-s+
+      1 root      20   0   23016   7860   4916 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:30 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1494.4 free,   2448.0 used,    181.7 buff/cache     
+MiB Swap:   3916.0 total,   1718.7 free,   2197.3 used.   1468.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3661588   1.8g   1920 R 100.0  46.4   2:17.23 mem.bash
+   3411 ubuntu    20   0 3826452  94264  46548 R  20.0   2.4   1:52.02 gnome-s+
+   5011 ubuntu    20   0   14504   5248   3200 R  10.0   0.1   0:00.02 top
+      1 root      20   0   23016   7860   4916 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:31 PM EST 2024 ---
+Tasks: 218 total,   4 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1456.5 free,   2485.9 used,    181.8 buff/cache     
+MiB Swap:   3916.0 total,   1718.7 free,   2197.3 used.   1430.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3697624   1.8g   1920 R 100.0  47.3   2:18.69 mem.bash
+   3411 ubuntu    20   0 3826452  94264  46548 R  27.3   2.4   1:52.46 gnome-s+
+     63 root      20   0       0      0      0 I   9.1   0.0   0:00.39 kworker+
+   5019 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7860   4916 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:33 PM EST 2024 ---
+Tasks: 217 total,   2 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1416.7 free,   2525.6 used,    181.9 buff/cache     
+MiB Swap:   3916.0 total,   1719.0 free,   2197.0 used.   1390.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3737752   1.8g   1920 R 100.0  48.3   2:20.18 mem.bash
+   3411 ubuntu    20   0 3826452  94392  46548 S  18.2   2.4   1:52.89 gnome-s+
+   4096 ubuntu    20   0  218740    896    640 S   9.1   0.0   0:47.76 VBoxCli+
+   4195 ubuntu    20   0  701568  18092  12944 S   9.1   0.5   0:39.21 gnome-t+
+   5027 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+---
+
+--- Collecting top data at Mon Dec 23 01:14:34 PM EST 2024 ---
+Tasks: 217 total,   4 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1390.9 free,   2551.4 used,    182.0 buff/cache     
+MiB Swap:   3916.0 total,   1721.2 free,   2194.8 used.   1364.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3760984   1.9g   1920 R 100.0  48.9   2:21.63 mem.bash
+   3411 ubuntu    20   0 3826452  94392  46548 R  27.3   2.4   1:53.40 gnome-s+
+   5036 ubuntu    20   0   14504   5376   3328 R  18.2   0.1   0:00.02 top
+     10 root       0 -20       0      0      0 I   9.1   0.0   0:24.61 kworker+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:00.32 irq/18-+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:36 PM EST 2024 ---
+Tasks: 217 total,   3 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1352.7 free,   2589.4 used,    182.1 buff/cache     
+MiB Swap:   3916.0 total,   1721.2 free,   2194.8 used.   1326.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3799132   1.9g   1920 R  91.7  49.9   2:23.09 mem.bash
+   3411 ubuntu    20   0 3826452  94392  46548 R  33.3   2.4   1:53.88 gnome-s+
+   4755 root      20   0       0      0      0 I   8.3   0.0   0:00.13 kworker+
+   5044 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:38 PM EST 2024 ---
+Tasks: 217 total,   3 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1313.4 free,   2628.6 used,    182.6 buff/cache     
+MiB Swap:   3916.0 total,   1721.5 free,   2194.5 used.   1287.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3837016   1.9g   1920 R  91.7  50.8   2:24.57 mem.bash
+   3411 ubuntu    20   0 3826452  95288  47316 R  33.3   2.4   1:54.36 gnome-s+
+     63 root      20   0       0      0      0 I   8.3   0.0   0:00.44 kworker+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:39 PM EST 2024 ---
+Tasks: 216 total,   4 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1285.4 free,   2655.1 used,    185.5 buff/cache     
+MiB Swap:   3916.0 total,   1721.5 free,   2194.5 used.   1261.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3873580   2.0g   1920 R 100.0  51.7   2:26.06 mem.bash
+   3411 ubuntu    20   0 3826452  95288  47316 R  16.7   2.4   1:54.80 gnome-s+
+    417 root     -51   0       0      0      0 S   8.3   0.0   0:00.43 irq/18-+
+   5059 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:41 PM EST 2024 ---
+Tasks: 217 total,   3 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1246.3 free,   2694.2 used,    185.5 buff/cache     
+MiB Swap:   3916.0 total,   1721.5 free,   2194.5 used.   1221.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3911596   2.0g   1920 R  91.7  52.7   2:27.54 mem.bash
+   3411 ubuntu    20   0 3826452  95288  47316 R  33.3   2.4   1:55.28 gnome-s+
+   5067 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:42 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1207.2 free,   2733.2 used,    185.8 buff/cache     
+MiB Swap:   3916.0 total,   1721.5 free,   2194.5 used.   1183.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3948028   2.0g   1920 R  91.7  53.6   2:29.01 mem.bash
+   3411 ubuntu    20   0 3826452  95288  47316 S  33.3   2.4   1:55.82 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:44 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1171.5 free,   2768.9 used,    185.8 buff/cache     
+MiB Swap:   3916.0 total,   1721.5 free,   2194.5 used.   1147.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 3983404   2.1g   1920 R  90.9  54.5   2:30.48 mem.bash
+   3411 ubuntu    20   0 3826452  95288  47316 R  36.4   2.4   1:56.40 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:45 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1136.5 free,   2803.8 used,    185.9 buff/cache     
+MiB Swap:   3916.0 total,   1721.5 free,   2194.5 used.   1112.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4019572   2.1g   1920 R  81.8  55.4   2:31.93 mem.bash
+   3411 ubuntu    20   0 3826452  95288  47316 R  27.3   2.4   1:56.98 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:47 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1100.4 free,   2839.9 used,    185.9 buff/cache     
+MiB Swap:   3916.0 total,   1721.5 free,   2194.5 used.   1076.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4055740   2.2g   1920 R  90.9  56.3   2:33.40 mem.bash
+   3411 ubuntu    20   0 3826452  95416  47316 S  45.5   2.4   1:57.56 gnome-s+
+   5102 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:48 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1053.1 free,   2887.2 used,    186.0 buff/cache     
+MiB Swap:   3916.0 total,   1722.5 free,   2193.5 used.   1029.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4104316   2.2g   1920 R 100.0  57.5   2:34.93 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 S  45.5   2.4   1:58.03 gnome-s+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:00.55 irq/18-+
+   5110 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:50 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,   1013.5 free,   2926.7 used,    186.0 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    989.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4140616   2.2g   1920 R 100.0  58.4   2:36.41 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 S  36.4   2.4   1:58.61 gnome-s+
+   5117 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.03 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:51 PM EST 2024 ---
+Tasks: 217 total,   2 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    978.3 free,   2961.9 used,    186.1 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    954.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4177048   2.3g   1920 R  91.7  59.3   2:37.87 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 S  50.0   2.4   1:59.21 gnome-s+
+   4939 root       0 -20       0      0      0 I   8.3   0.0   0:26.19 kworker+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:53 PM EST 2024 ---
+Tasks: 217 total,   3 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    949.3 free,   2990.9 used,    186.1 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    925.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4214140   2.3g   1920 R 100.0  60.2   2:39.34 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 R  33.3   2.4   1:59.77 gnome-s+
+   5132 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:55 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    911.6 free,   3028.5 used,    186.2 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    887.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4250572   2.3g   1920 R  91.7  61.1   2:40.80 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 R  33.3   2.4   2:00.33 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:14:56 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    873.5 free,   3066.6 used,    186.3 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    849.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4289512   2.4g   1920 R 100.0  62.1   2:42.31 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 R  36.4   2.4   2:00.85 gnome-s+
+   5063 root      20   0       0      0      0 I   9.1   0.0   0:00.12 kworker+
+   5152 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:58 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    838.3 free,   3101.8 used,    186.3 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    814.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4325812   2.4g   1920 R  83.3  63.0   2:43.78 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 R  33.3   2.4   2:01.45 gnome-s+
+   5063 root      20   0       0      0      0 I   8.3   0.0   0:00.15 kworker+
+   5160 ubuntu    20   0   14504   5248   3200 R   8.3   0.1   0:00.03 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:14:59 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    799.1 free,   3140.9 used,    186.4 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    775.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4363300   2.4g   1920 R 100.0  63.9   2:45.25 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 S  40.0   2.4   2:02.02 gnome-s+
+   5167 ubuntu    20   0   14504   5376   3328 R  20.0   0.1   0:00.03 top
+   3854 ubuntu    20   0  243040   3132   2256 S  10.0   0.1   0:49.33 Xwayland
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:01 PM EST 2024 ---
+Tasks: 219 total,   2 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    764.4 free,   3174.8 used,    188.1 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    741.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4397884   2.5g   1920 R 100.0  64.8   2:46.69 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 S  36.4   2.4   2:02.64 gnome-s+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:00.70 irq/18-+
+   5179 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:02 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    728.3 free,   3210.9 used,    188.1 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    705.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4434844   2.5g   1920 R  90.9  65.7   2:48.16 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 R  36.4   2.4   2:03.21 gnome-s+
+   5186 ubuntu    20   0   14504   5376   3328 R  18.2   0.1   0:00.02 top
+   2179 root      20   0  283996    512    512 S   9.1   0.0   0:29.39 VBoxDRM+
+   4755 root      20   0       0      0      0 I   9.1   0.0   0:00.26 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:04 PM EST 2024 ---
+Tasks: 219 total,   4 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    692.3 free,   3246.9 used,    188.1 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    669.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4472068   2.5g   1920 R  91.7  66.6   2:49.65 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 R  33.3   2.4   2:03.79 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:06 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    655.9 free,   3283.2 used,    188.2 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    632.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4508104   2.6g   1920 R 100.0  67.5   2:51.11 mem.bash
+   3411 ubuntu    20   0 3826452  97720  47444 R  36.4   2.4   2:04.35 gnome-s+
+   4096 ubuntu    20   0  218740    896    640 S   9.1   0.0   0:47.94 VBoxCli+
+   5201 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:07 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    619.3 free,   3319.4 used,    189.1 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    596.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4546780   2.6g   1920 R  71.4  68.5   2:52.65 mem.bash
+   5211 ubuntu    39  19  313868  22272  19072 R  42.9   0.6   0:00.06 tracker+
+   3411 ubuntu    20   0 3826452  97848  47444 R  35.7   2.4   2:04.98 gnome-s+
+     18 root      rt   0       0      0      0 S   7.1   0.0   0:00.06 migrati+
+   3933 ubuntu    39  19  734668  18856   9172 S   7.1   0.5   0:27.68 tracker+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:09 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    582.6 free,   3356.0 used,    189.2 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    560.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4583872   2.7g   1920 R 100.0  69.4   2:54.11 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  36.4   2.4   2:05.58 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:10 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    545.4 free,   3393.2 used,    189.2 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    522.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4621360   2.7g   1920 R  91.7  70.4   2:55.60 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  50.0   2.4   2:06.16 gnome-s+
+   4939 root       0 -20       0      0      0 I  16.7   0.0   0:26.30 kworker+
+     10 root       0 -20       0      0      0 I   8.3   0.0   0:24.67 kworker+
+   3933 ubuntu    39  19  734668  18856   9172 D   8.3   0.5   0:27.70 tracker+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:12 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    505.3 free,   3433.3 used,    189.3 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    482.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4659508   2.7g   1920 R 100.0  71.3   2:57.08 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  18.2   2.4   2:06.63 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:13 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    466.9 free,   3471.7 used,    189.3 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    444.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4695676   2.8g   1920 R 100.0  72.2   2:58.57 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  27.3   2.4   2:07.11 gnome-s+
+   5243 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:15 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    435.9 free,   3502.6 used,    189.4 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    413.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4727224   2.8g   1920 R 100.0  73.0   3:00.06 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  27.3   2.4   2:07.59 gnome-s+
+   5251 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:16 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    397.0 free,   3541.2 used,    190.1 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    375.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4766956   2.8g   1920 R 100.0  74.0   3:01.55 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  36.4   2.4   2:08.05 gnome-s+
+   5258 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:18 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    365.3 free,   3572.9 used,    190.2 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    343.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4804180   2.9g   1920 R  91.7  74.9   3:03.05 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  25.0   2.4   2:08.63 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:20 PM EST 2024 ---
+Tasks: 218 total,   2 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    329.6 free,   3608.5 used,    190.2 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    307.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4840876   2.9g   1920 R 100.0  75.8   3:04.51 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  36.4   2.4   2:09.24 gnome-s+
+   5273 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:21 PM EST 2024 ---
+Tasks: 219 total,   2 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    290.5 free,   3647.6 used,    190.3 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    268.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4878628   2.9g   1920 R 100.0  76.8   3:05.97 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  27.3   2.4   2:09.76 gnome-s+
+   5286 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:23 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    255.5 free,   3682.6 used,    190.3 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    233.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4916908   3.0g   1920 R 100.0  77.7   3:07.44 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  27.3   2.4   2:10.22 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:24 PM EST 2024 ---
+Tasks: 219 total,   2 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    216.9 free,   3721.1 used,    190.4 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    195.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4956112   3.0g   1920 R 100.0  78.7   3:08.92 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  18.2   2.4   2:10.81 gnome-s+
+   5301 ubuntu    20   0   14504   5248   3200 R   9.1   0.1   0:00.01 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:26 PM EST 2024 ---
+Tasks: 219 total,   2 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    176.5 free,   3761.5 used,    190.4 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    154.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 4991884   3.0g   1920 R  91.7  79.6   3:10.39 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  33.3   2.4   2:11.29 gnome-s+
+   5308 ubuntu    20   0   14504   5376   3328 R  16.7   0.1   0:00.03 top
+    417 root     -51   0       0      0      0 S   8.3   0.0   0:01.09 irq/18-+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:27 PM EST 2024 ---
+Tasks: 219 total,   2 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    141.3 free,   3796.7 used,    190.5 buff/cache     
+MiB Swap:   3916.0 total,   1723.7 free,   2192.3 used.    119.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5028976   3.1g   1920 R  84.6  80.5   3:11.84 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  30.8   2.4   2:11.75 gnome-s+
+   5316 ubuntu    20   0   14504   5376   3328 R   7.7   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:29 PM EST 2024 ---
+Tasks: 219 total,   4 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    108.9 free,   3829.7 used,    189.3 buff/cache     
+MiB Swap:   3916.0 total,   1715.5 free,   2200.5 used.     86.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5081248   3.1g   1920 R  91.7  81.5   3:13.30 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  33.3   2.4   2:12.24 gnome-s+
+    417 root     -51   0       0      0      0 S   8.3   0.0   0:01.14 irq/18-+
+   5323 ubuntu    20   0   14504   5248   3200 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:31 PM EST 2024 ---
+Tasks: 219 total,   2 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    182.8 free,   3755.8 used,    189.3 buff/cache     
+MiB Swap:   3916.0 total,   1624.8 free,   2291.2 used.    160.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5097880   3.0g   1920 R  83.3  79.7   3:14.36 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  33.3   2.4   2:13.08 gnome-s+
+    417 root     -51   0       0      0      0 S   8.3   0.0   0:01.15 irq/18-+
+   5331 ubuntu    20   0   14504   5248   3200 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:32 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    141.8 free,   3796.8 used,    189.4 buff/cache     
+MiB Swap:   3916.0 total,   1624.8 free,   2291.2 used.    119.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5135896   3.1g   1920 R  90.9  80.7   3:15.84 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  36.4   2.4   2:13.67 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:34 PM EST 2024 ---
+Tasks: 218 total,   3 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    105.1 free,   3833.4 used,    189.4 buff/cache     
+MiB Swap:   3916.0 total,   1624.8 free,   2291.2 used.     82.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5172592   3.1g   1920 R  76.9  81.6   3:17.32 mem.bash
+   5348 ubuntu    39  19  400232  29060  23940 S  46.2   0.7   0:00.08 tracker+
+   3411 ubuntu    20   0 3826452  97848  47444 S  23.1   2.4   2:14.31 gnome-s+
+   4755 root      20   0       0      0      0 I   7.7   0.0   0:00.43 kworker+
+   5345 ubuntu    20   0   14504   5376   3328 R   7.7   0.1   0:00.03 top
+---
+
+--- Collecting top data at Mon Dec 23 01:15:36 PM EST 2024 ---
+Tasks: 219 total,   2 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    193.8 free,   3745.4 used,    188.1 buff/cache     
+MiB Swap:   3916.0 total,   1528.0 free,   2388.0 used.    170.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5210212   3.1g   1920 R  83.3  80.0   3:18.52 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  33.3   2.4   2:15.01 gnome-s+
+   5358 ubuntu    20   0   14504   5376   3328 R  16.7   0.1   0:00.03 top
+    417 root     -51   0       0      0      0 S   8.3   0.0   0:01.19 irq/18-+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:38 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    121.0 free,   3818.2 used,    188.1 buff/cache     
+MiB Swap:   3916.0 total,   1528.0 free,   2388.0 used.     97.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5248492   3.1g   1920 R  66.7  81.0   3:19.98 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  41.7   2.4   2:15.50 gnome-s+
+     17 root      20   0       0      0      0 I   8.3   0.0   0:02.05 rcu_pre+
+   5365 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:39 PM EST 2024 ---
+Tasks: 219 total,   4 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    137.8 free,   3801.3 used,    188.3 buff/cache     
+MiB Swap:   3916.0 total,   1491.8 free,   2424.2 used.    114.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 S  40.0   0.0   6:09.97 kswapd0
+     10 root       0 -20       0      0      0 I  35.0   0.0   0:26.69 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 R  35.0   2.4   2:16.29 gnome-s+
+   4380 ubuntu    20   0 5271196   3.0g   1920 R  25.0  79.0   3:21.19 mem.bash
+   4195 ubuntu    20   0  701568  18092  12944 R  10.0   0.5   0:39.44 gnome-t+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:41 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    171.7 free,   3767.3 used,    188.6 buff/cache     
+MiB Swap:   3916.0 total,   1427.9 free,   2488.1 used.    148.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5307100   3.1g   1920 R  83.3  79.9   3:22.63 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  41.7   2.4   2:16.87 gnome-s+
+   4755 root      20   0       0      0      0 I   8.3   0.0   0:00.48 kworker+
+   5170 root      20   0       0      0      0 I   8.3   0.0   0:00.04 kworker+
+   5380 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+---
+
+--- Collecting top data at Mon Dec 23 01:15:43 PM EST 2024 ---
+Tasks: 219 total,   2 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    136.7 free,   3802.2 used,    188.6 buff/cache     
+MiB Swap:   3916.0 total,   1427.9 free,   2488.1 used.    113.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5342344   3.1g   1920 R 100.0  80.8   3:24.09 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  36.4   2.4   2:17.45 gnome-s+
+   5388 ubuntu    20   0   14504   5248   3200 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:44 PM EST 2024 ---
+Tasks: 219 total,   4 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    105.5 free,   3833.8 used,    188.0 buff/cache     
+MiB Swap:   3916.0 total,   1424.1 free,   2491.9 used.     82.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5377456   3.1g   1920 R  91.7  81.2   3:25.54 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  25.0   2.4   2:18.07 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:46 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    144.9 free,   3798.3 used,    180.1 buff/cache     
+MiB Swap:   3916.0 total,   1373.9 free,   2542.1 used.    117.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 D  46.2   0.0   6:10.55 kswapd0
+   4380 ubuntu    20   0 5403856   3.1g   1920 R  46.2  80.4   3:26.72 mem.bash
+   4939 root       0 -20       0      0      0 R  38.5   0.0   0:27.01 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 S  15.4   2.4   2:18.51 gnome-s+
+     10 root       0 -20       0      0      0 I   7.7   0.0   0:26.84 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 01:15:48 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    171.8 free,   3770.9 used,    181.2 buff/cache     
+MiB Swap:   3916.0 total,   1314.1 free,   2601.9 used.    145.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5435404   3.1g   1920 R  90.9  80.2   3:28.04 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  45.5   2.4   2:18.95 gnome-s+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:01.36 irq/18-+
+   5416 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:49 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    131.0 free,   3811.6 used,    181.2 buff/cache     
+MiB Swap:   3916.0 total,   1314.1 free,   2601.9 used.    104.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5471836   3.1g   1920 R 100.0  81.1   3:29.51 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  27.3   2.4   2:19.40 gnome-s+
+   4087 ubuntu    20   0  218224   2076   1920 S   9.1   0.1   0:58.37 VBoxCli+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:51 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    111.3 free,   3831.2 used,    181.5 buff/cache     
+MiB Swap:   3916.0 total,   1300.7 free,   2615.3 used.     85.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     10 root       0 -20       0      0      0 R 100.0   0.0   0:27.44 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 R  66.7   2.4   2:20.19 gnome-s+
+     53 root      20   0       0      0      0 D  47.6   0.0   6:11.24 kswapd0
+   4380 ubuntu    20   0 5494144   3.1g   1920 R  42.9  79.8   3:30.89 mem.bash
+   5431 ubuntu    20   0   14504   5376   3328 R  28.6   0.1   0:00.13 top
+---
+
+--- Collecting top data at Mon Dec 23 01:15:53 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    203.1 free,   3739.1 used,    182.0 buff/cache     
+MiB Swap:   3916.0 total,   1202.3 free,   2713.7 used.    177.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5511832   3.0g   1920 R  83.3  79.3   3:31.95 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  33.3   2.4   2:20.85 gnome-s+
+   5170 root      20   0       0      0      0 I   8.3   0.0   0:00.11 kworker+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:54 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    163.2 free,   3779.0 used,    182.0 buff/cache     
+MiB Swap:   3916.0 total,   1202.3 free,   2713.7 used.    137.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5549452   3.1g   1920 R 100.0  80.2   3:33.42 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  45.5   2.4   2:21.42 gnome-s+
+   5445 ubuntu    20   0   14504   5376   3328 R  18.2   0.1   0:00.03 top
+   5170 root      20   0       0      0      0 I   9.1   0.0   0:00.14 kworker+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.45 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:56 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    121.1 free,   3821.1 used,    182.2 buff/cache     
+MiB Swap:   3916.0 total,   1202.3 free,   2713.7 used.     95.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5585620   3.1g   1920 R  83.3  81.1   3:34.86 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  33.3   2.4   2:22.01 gnome-s+
+    823 message+  20   0   12208   3840   2048 S   8.3   0.1   0:33.68 dbus-da+
+   5453 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:15:58 PM EST 2024 ---
+Tasks: 219 total,   5 running, 214 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    178.5 free,   3764.3 used,    180.8 buff/cache     
+MiB Swap:   3916.0 total,   1137.0 free,   2779.0 used.    151.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5612680   3.0g   1920 R  81.8  79.3   3:36.17 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  36.4   2.4   2:22.77 gnome-s+
+   5460 ubuntu    20   0   14504   5120   3200 R   9.1   0.1   0:00.03 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:00 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    166.3 free,   3776.4 used,    181.1 buff/cache     
+MiB Swap:   3916.0 total,   1105.7 free,   2810.3 used.    139.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5647924   3.1g   1920 R 100.0  80.2   3:37.60 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  27.3   2.4   2:23.33 gnome-s+
+   5170 root      20   0       0      0      0 I   9.1   0.0   0:00.21 kworker+
+   5473 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:01 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    126.2 free,   3816.5 used,    181.1 buff/cache     
+MiB Swap:   3916.0 total,   1105.7 free,   2810.3 used.     99.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5686468   3.1g   1920 R 100.0  81.2   3:39.06 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  41.7   2.4   2:23.79 gnome-s+
+    417 root     -51   0       0      0      0 S   8.3   0.0   0:01.57 irq/18-+
+   5480 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:03 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    121.4 free,   3821.2 used,    181.1 buff/cache     
+MiB Swap:   3916.0 total,   1086.2 free,   2829.8 used.     94.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4939 root       0 -20       0      0      0 R  64.3   0.0   0:27.80 kworker+
+   4380 ubuntu    20   0 5715112   3.1g   1920 R  57.1  80.7   3:40.45 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  35.7   2.4   2:24.22 gnome-s+
+     53 root      20   0       0      0      0 R  21.4   0.0   6:12.67 kswapd0
+   5487 ubuntu    20   0   14504   5376   3328 R   7.1   0.1   0:00.02 top
+---
+
+--- Collecting top data at Mon Dec 23 01:16:05 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    180.5 free,   3761.9 used,    181.7 buff/cache     
+MiB Swap:   3916.0 total,   1000.7 free,   2915.2 used.    154.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5747188   3.1g   1920 R  90.9  80.0   3:41.70 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  36.4   2.4   2:24.63 gnome-s+
+   5495 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:06 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    143.0 free,   3799.3 used,    181.8 buff/cache     
+MiB Swap:   3916.0 total,   1000.7 free,   2915.2 used.    116.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5784940   3.1g   1920 R  90.9  80.9   3:43.17 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  36.4   2.4   2:25.19 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+---
+
+--- Collecting top data at Mon Dec 23 01:16:08 PM EST 2024 ---
+Tasks: 220 total,   5 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    138.7 free,   3804.0 used,    181.0 buff/cache     
+MiB Swap:   3916.0 total,    973.1 free,   2942.9 used.    112.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5813188   3.1g   1920 R  71.4  80.4   3:44.46 mem.bash
+     53 root      20   0       0      0      0 D  42.9   0.0   6:13.35 kswapd0
+   4939 root       0 -20       0      0      0 I  35.7   0.0   0:28.97 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 S   7.1   2.4   2:25.64 gnome-s+
+   5510 ubuntu    20   0   14504   5376   3328 R   7.1   0.1   0:00.02 top
+---
+
+--- Collecting top data at Mon Dec 23 01:16:09 PM EST 2024 ---
+Tasks: 220 total,   5 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    173.9 free,   3768.7 used,    181.3 buff/cache     
+MiB Swap:   3916.0 total,    913.7 free,   3002.2 used.    147.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 S  53.3   0.0   6:14.41 kswapd0
+   4380 ubuntu    20   0 5838928   3.0g   1920 R  53.3  79.3   3:45.80 mem.bash
+   4939 root       0 -20       0      0      0 I  20.0   0.0   0:29.54 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 R  13.3   2.4   2:25.87 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:11 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    158.7 free,   3783.5 used,    182.0 buff/cache     
+MiB Swap:   3916.0 total,    885.6 free,   3030.4 used.    132.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5882356   3.1g   1920 R 100.0  80.4   3:47.26 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  36.4   2.4   2:26.30 gnome-s+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:01.74 irq/18-+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:13 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    116.2 free,   3826.0 used,    182.1 buff/cache     
+MiB Swap:   3916.0 total,    885.6 free,   3030.4 used.     90.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5919976   3.1g   1920 R 100.0  81.4   3:48.72 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  20.0   2.4   2:26.69 gnome-s+
+   5537 ubuntu    20   0   14504   5376   3328 R  10.0   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:14 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    137.2 free,   3805.5 used,    181.1 buff/cache     
+MiB Swap:   3916.0 total,    842.4 free,   3073.6 used.    110.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5945716   3.1g   1920 R  61.5  80.3   3:49.98 mem.bash
+     53 root      20   0       0      0      0 R  53.8   0.0   6:14.84 kswapd0
+   4939 root       0 -20       0      0      0 R  46.2   0.0   0:30.25 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 R  23.1   2.4   2:27.11 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:16 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    166.6 free,   3776.0 used,    181.2 buff/cache     
+MiB Swap:   3916.0 total,    786.8 free,   3129.1 used.    140.1 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 5976868   3.1g   1920 R 100.0  80.3   3:51.28 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  18.2   2.4   2:27.52 gnome-s+
+   5552 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.03 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:17 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    127.0 free,   3815.6 used,    181.2 buff/cache     
+MiB Swap:   3916.0 total,    786.8 free,   3129.1 used.    100.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6014752   3.1g   1920 R  90.9  81.2   3:52.72 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  36.4   2.4   2:27.94 gnome-s+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:01.91 irq/18-+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:19 PM EST 2024 ---
+Tasks: 220 total,   5 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    120.2 free,   3822.4 used,    181.3 buff/cache     
+MiB Swap:   3916.0 total,    762.3 free,   3153.6 used.     93.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6046696   3.1g   1920 R  61.5  80.7   3:54.07 mem.bash
+   4939 root       0 -20       0      0      0 R  61.5   0.0   0:31.09 kworker+
+     53 root      20   0       0      0      0 D  30.8   0.0   6:15.34 kswapd0
+   3411 ubuntu    20   0 3826452  97848  47444 S  15.4   2.4   2:28.38 gnome-s+
+    417 root     -51   0       0      0      0 S   7.7   0.0   0:01.95 irq/18-+
+---
+
+--- Collecting top data at Mon Dec 23 01:16:20 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    177.0 free,   3765.5 used,    181.3 buff/cache     
+MiB Swap:   3916.0 total,    685.7 free,   3230.3 used.    150.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6069400   3.1g   1920 R 100.0  80.0   3:55.25 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  45.5   2.4   2:28.90 gnome-s+
+   5574 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:22 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    143.9 free,   3798.7 used,    181.3 buff/cache     
+MiB Swap:   3916.0 total,    685.7 free,   3230.3 used.    117.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6102664   3.1g   1920 R  91.7  80.8   3:56.73 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  25.0   2.4   2:29.38 gnome-s+
+    417 root     -51   0       0      0      0 S   8.3   0.0   0:02.01 irq/18-+
+   4195 ubuntu    20   0  701568  18092  12944 S   8.3   0.5   0:39.56 gnome-t+
+   4319 ubuntu    20   0   14536   2432   1920 S   8.3   0.1   0:27.20 top
+---
+
+--- Collecting top data at Mon Dec 23 01:16:24 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    108.9 free,   3833.6 used,    181.5 buff/cache     
+MiB Swap:   3916.0 total,    685.7 free,   3230.3 used.     82.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6137644   3.1g   1920 R  81.8  81.6   3:58.20 mem.bash
+     53 root      20   0       0      0      0 R  36.4   0.0   6:16.14 kswapd0
+   3411 ubuntu    20   0 3826452  97848  47444 R  27.3   2.4   2:29.83 gnome-s+
+   4939 root       0 -20       0      0      0 I  18.2   0.0   0:31.59 kworker+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:02.04 irq/18-+
+---
+
+--- Collecting top data at Mon Dec 23 01:16:25 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    150.7 free,   3792.3 used,    180.5 buff/cache     
+MiB Swap:   3916.0 total,    622.4 free,   3293.6 used.    123.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6159820   3.1g   1920 R  64.3  79.9   3:59.33 mem.bash
+     53 root      20   0       0      0      0 R  50.0   0.0   6:17.27 kswapd0
+   4939 root       0 -20       0      0      0 I  42.9   0.0   0:32.13 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 R  28.6   2.4   2:30.32 gnome-s+
+   5601 ubuntu    20   0   14504   5376   3328 R   7.1   0.1   0:00.02 top
+---
+
+--- Collecting top data at Mon Dec 23 01:16:27 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    158.1 free,   3784.7 used,    180.7 buff/cache     
+MiB Swap:   3916.0 total,    585.8 free,   3330.2 used.    131.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6196516   3.1g   1920 R  90.9  80.6   4:00.74 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  27.3   2.4   2:30.77 gnome-s+
+   2179 root      20   0  283996    512    512 S   9.1   0.0   0:29.50 VBoxDRM+
+   5609 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:29 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    115.6 free,   3827.3 used,    180.7 buff/cache     
+MiB Swap:   3916.0 total,    585.8 free,   3330.2 used.     88.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6237436   3.1g   1920 R 100.0  81.6   4:02.26 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  27.3   2.4   2:31.23 gnome-s+
+   5616 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:30 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    142.3 free,   3800.5 used,    180.9 buff/cache     
+MiB Swap:   3916.0 total,    531.9 free,   3384.1 used.    115.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  69.2   0.0   6:18.31 kswapd0
+   4380 ubuntu    20   0 6260404   3.1g   1920 R  61.5  80.1   4:03.37 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  30.8   2.4   2:31.68 gnome-s+
+   4939 root       0 -20       0      0      0 I  30.8   0.0   0:32.72 kworker+
+   5623 ubuntu    20   0   14504   5376   3328 R   7.7   0.1   0:00.02 top
+---
+
+--- Collecting top data at Mon Dec 23 01:16:32 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    159.5 free,   3782.2 used,    183.1 buff/cache     
+MiB Swap:   3916.0 total,    484.5 free,   3431.5 used.    133.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6291556   3.1g   1920 R 100.0  80.3   4:04.72 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  36.4   2.4   2:32.16 gnome-s+
+   5631 ubuntu    20   0   14504   5376   3328 R  18.2   0.1   0:00.02 top
+   5170 root      20   0       0      0      0 I   9.1   0.0   0:00.48 kworker+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:33 PM EST 2024 ---
+Tasks: 220 total,   5 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    120.3 free,   3821.4 used,    183.1 buff/cache     
+MiB Swap:   3916.0 total,    484.5 free,   3431.5 used.     94.7 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6331288   3.1g   1920 R  90.9  81.3   4:06.24 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  18.2   2.4   2:32.61 gnome-s+
+   4755 root      20   0       0      0      0 I   9.1   0.0   0:00.60 kworker+
+   5638 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.03 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:35 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    131.2 free,   3810.4 used,    183.4 buff/cache     
+MiB Swap:   3916.0 total,    445.6 free,   3470.4 used.    105.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 D  64.3   0.0   6:19.18 kswapd0
+   4380 ubuntu    20   0 6358348   3.1g   1920 R  57.1  80.4   4:07.42 mem.bash
+   4939 root       0 -20       0      0      0 I  28.6   0.0   0:33.36 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 S  21.4   2.4   2:33.06 gnome-s+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:37 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    163.1 free,   3778.3 used,    183.7 buff/cache     
+MiB Swap:   3916.0 total,    383.6 free,   3532.4 used.    137.8 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6390424   3.1g   1920 R  83.3  80.2   4:08.73 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  41.7   2.4   2:33.57 gnome-s+
+   4096 ubuntu    20   0  218740    896    640 S   8.3   0.0   0:48.53 VBoxCli+
+   5658 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:38 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    128.7 free,   3812.6 used,    183.8 buff/cache     
+MiB Swap:   3916.0 total,    383.6 free,   3532.4 used.    103.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6427912   3.1g   1920 R 100.0  81.2   4:10.16 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  36.4   2.4   2:34.09 gnome-s+
+   4096 ubuntu    20   0  218740    896    640 S   9.1   0.0   0:48.54 VBoxCli+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:40 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    163.2 free,   3780.7 used,    178.7 buff/cache     
+MiB Swap:   3916.0 total,    324.0 free,   3592.0 used.    135.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6454576   3.0g   1920 R  53.8  79.7   4:11.44 mem.bash
+     53 root      20   0       0      0      0 R  46.2   0.0   6:20.35 kswapd0
+   4939 root       0 -20       0      0      0 R  46.2   0.0   0:33.96 kworker+
+   3411 ubuntu    20   0 3826452  97848  47444 R  30.8   2.4   2:34.75 gnome-s+
+   4755 root      20   0       0      0      0 I   7.7   0.0   0:00.67 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 01:16:42 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    183.2 free,   3760.6 used,    179.0 buff/cache     
+MiB Swap:   3916.0 total,    272.7 free,   3643.3 used.    155.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6489952   3.1g   1920 R  90.9  79.9   4:12.78 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  27.3   2.4   2:35.25 gnome-s+
+   5680 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:43 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    145.5 free,   3798.2 used,    179.1 buff/cache     
+MiB Swap:   3916.0 total,    272.7 free,   3643.3 used.    118.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6528364   3.1g   1920 R 100.0  80.8   4:14.25 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 R  36.4   2.4   2:35.82 gnome-s+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:02.36 irq/18-+
+      1 root      20   0   23016   7988   5044 S   0.0   0.2   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:45 PM EST 2024 ---
+Tasks: 219 total,   4 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,     96.7 free,   3847.1 used,    178.9 buff/cache     
+MiB Swap:   3916.0 total,    271.7 free,   3644.3 used.     69.0 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6578524   3.1g   1920 R  50.0  81.5   4:15.72 mem.bash
+     53 root      20   0       0      0      0 R  42.9   0.0   6:20.77 kswapd0
+   3411 ubuntu    20   0 3826452  97848  47444 S  28.6   2.4   2:36.25 gnome-s+
+   5698 ubuntu    39  19   77176  11904  10880 S  14.3   0.3   0:00.02 tracker+
+     10 root       0 -20       0      0      0 I   7.1   0.0   0:28.98 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 01:16:46 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    134.9 free,   3811.9 used,    172.8 buff/cache     
+MiB Swap:   3916.0 total,    213.3 free,   3702.7 used.    104.2 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6609280   3.1g   1920 R  90.9  81.3   4:16.95 mem.bash
+   3411 ubuntu    20   0 3826452  97848  47444 S  36.4   2.4   2:36.75 gnome-s+
+     17 root      20   0       0      0      0 I   9.1   0.0   0:02.30 rcu_pre+
+     65 root      20   0       0      0      0 I   9.1   0.0   0:03.77 kworker+
+      1 root      20   0   23016   7860   4916 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:48 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    117.1 free,   3837.2 used,    157.9 buff/cache     
+MiB Swap:   3916.0 total,    205.1 free,   3710.9 used.     78.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6645976   3.1g   1920 R  83.3  81.9   4:18.38 mem.bash
+     53 root      20   0       0      0      0 R  66.7   0.0   6:21.82 kswapd0
+   3411 ubuntu    20   0 3826452  97336  46932 S  33.3   2.4   2:37.20 gnome-s+
+   5715 ubuntu    20   0   14504   5376   3328 R   8.3   0.1   0:00.02 top
+      1 root      20   0   23016   7476   4532 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:50 PM EST 2024 ---
+Tasks: 220 total,   3 running, 217 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    127.3 free,   3831.3 used,    149.4 buff/cache     
+MiB Swap:   3916.0 total,    169.1 free,   3746.9 used.     84.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6680296   3.1g   1920 R 100.0  82.1   4:19.74 mem.bash
+   3411 ubuntu    20   0 3826452  96440  46036 S  27.3   2.4   2:37.65 gnome-s+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:02.47 irq/18-+
+   4755 root      20   0       0      0      0 I   9.1   0.0   0:00.78 kworker+
+   5723 ubuntu    20   0   14504   5376   3328 R   9.1   0.1   0:00.02 top
+---
+
+--- Collecting top data at Mon Dec 23 01:16:51 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    109.3 free,   3855.5 used,    136.9 buff/cache     
+MiB Swap:   3916.0 total,    163.2 free,   3752.8 used.     60.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6718708   3.2g   1920 R  84.6  82.9   4:21.19 mem.bash
+     53 root      20   0       0      0      0 D  61.5   0.0   6:22.34 kswapd0
+   3411 ubuntu    20   0 3826452  92472  43476 R  23.1   2.3   2:38.13 gnome-s+
+   4939 root       0 -20       0      0      0 R  15.4   0.0   0:34.93 kworker+
+      1 root      20   0   23016   7220   4404 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:53 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    101.6 free,   3865.6 used,    132.1 buff/cache     
+MiB Swap:   3916.0 total,    143.9 free,   3772.1 used.     50.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6752368   3.2g   1920 R  61.5  83.0   4:22.49 mem.bash
+     53 root      20   0       0      0      0 D  46.2   0.0   6:22.82 kswapd0
+   4939 root       0 -20       0      0      0 R  46.2   0.0   0:35.11 kworker+
+   3411 ubuntu    20   0 3826452  89400  43476 S  23.1   2.2   2:38.64 gnome-s+
+   5738 ubuntu    20   0   14504   5376   3328 R   7.7   0.1   0:00.01 top
+---
+
+--- Collecting top data at Mon Dec 23 01:16:54 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    103.9 free,   3864.5 used,    129.6 buff/cache     
+MiB Swap:   3916.0 total,    111.1 free,   3804.9 used.     51.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  69.2   0.0   6:23.17 kswapd0
+   4380 ubuntu    20   0 6787084   3.2g   1920 R  61.5  83.2   4:23.80 mem.bash
+   3411 ubuntu    20   0 3826452  80824  43476 R  23.1   2.0   2:39.16 gnome-s+
+   4939 root       0 -20       0      0      0 R  23.1   0.0   0:35.37 kworker+
+   4755 root      20   0       0      0      0 I   7.7   0.0   0:00.85 kworker+
+---
+
+--- Collecting top data at Mon Dec 23 01:16:56 PM EST 2024 ---
+Tasks: 220 total,   5 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    165.7 free,   3802.8 used,    129.5 buff/cache     
+MiB Swap:   3916.0 total,     26.5 free,   3889.5 used.    113.3 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6810844   3.1g   1920 R  66.7  81.9   4:24.88 mem.bash
+   3411 ubuntu    20   0 3826452  80824  43476 R  33.3   2.0   2:39.64 gnome-s+
+    199 root      20   0       0      0      0 S   6.7   0.0   0:00.81 jbd2/dm+
+   3198 ubuntu    20   0   10728   1792   1024 S   6.7   0.0   0:01.56 dbus-da+
+   3933 ubuntu    39  19  734668  17960   8660 R   6.7   0.4   0:28.32 tracker+
+---
+
+--- Collecting top data at Mon Dec 23 01:16:58 PM EST 2024 ---
+Tasks: 219 total,   3 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    139.9 free,   3827.2 used,    132.2 buff/cache     
+MiB Swap:   3916.0 total,     14.5 free,   3901.5 used.     88.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6850180   3.2g   1920 R 100.0  82.9   4:26.34 mem.bash
+   3411 ubuntu    20   0 3826452  80824  43476 R  36.4   2.0   2:40.22 gnome-s+
+    417 root     -51   0       0      0      0 S   9.1   0.0   0:02.60 irq/18-+
+   4755 root      20   0       0      0      0 I   9.1   0.0   0:00.89 kworker+
+      1 root      20   0   23016   6324   4404 S   0.0   0.2   2:33.46 systemd
+---
+
+--- Collecting top data at Mon Dec 23 01:16:59 PM EST 2024 ---
+Tasks: 219 total,   4 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    107.5 free,   3859.7 used,    132.2 buff/cache     
+MiB Swap:   3916.0 total,     13.8 free,   3902.2 used.     56.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6888064   3.2g   1920 R  90.9  83.4   4:27.77 mem.bash
+   3411 ubuntu    20   0 3826452  82872  45396 R  45.5   2.1   2:40.77 gnome-s+
+   3933 ubuntu    39  19  734668  17832   8532 S  18.2   0.4   0:28.34 tracker+
+   4939 root       0 -20       0      0      0 I   9.1   0.0   0:36.01 kworker+
+   5767 ubuntu    20   0   14504   5248   3328 R   9.1   0.1   0:00.04 top
+---
+
+--- Collecting top data at Mon Dec 23 01:17:01 PM EST 2024 ---
+Tasks: 220 total,   4 running, 216 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    114.7 free,   3868.5 used,    100.1 buff/cache     
+MiB Swap:   3916.0 total,      0.2 free,   3915.8 used.     47.6 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6920404   3.2g   1920 R  84.6  84.2   4:29.25 mem.bash
+   3411 ubuntu    20   0 3826452  55992  18516 R  30.8   1.4   2:41.43 gnome-s+
+   5770 ubuntu    39  19  324928  28032  23296 R  30.8   0.7   0:00.57 tracker+
+     53 root      20   0       0      0      0 R   7.7   0.0   6:24.37 kswapd0
+   5781 ubuntu    20   0   14504   5376   3328 R   7.7   0.1   0:00.03 top
+---
+
+--- Collecting top data at Mon Dec 23 01:17:03 PM EST 2024 ---
+Tasks: 220 total,   2 running, 218 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,    112.5 free,   3890.8 used,     60.2 buff/cache     
+MiB Swap:   3916.0 total,      0.2 free,   3915.8 used.     25.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+   4380 ubuntu    20   0 6962644   3.3g   1664 R  83.3  85.3   4:30.83 mem.bash
+   3411 ubuntu    20   0 3826452  49592  12116 R  25.0   1.2   2:41.95 gnome-s+
+     65 root      20   0       0      0      0 I   8.3   0.0   0:03.79 kworker+
+      1 root      20   0   23016   3636   1716 S   0.0   0.1   2:33.46 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.04 kthreadd
+---
+
+--- Collecting top data at Mon Dec 23 01:17:05 PM EST 2024 ---
+Tasks: 220 total,   8 running, 212 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,     87.9 free,   3828.2 used,     40.7 buff/cache     
+MiB Swap:   3916.0 total,      0.1 free,   3915.9 used.     87.9 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  49.4   0.0   6:32.86 kswapd0
+    272 root      20   0   50892    876    236 S   3.5   0.0   0:34.37 systemd+
+    542 systemd+  20   0   17556    512    256 S   3.5   0.0   0:46.76 systemd+
+   3411 ubuntu    20   0 3826452  41784   4308 R   3.5   1.0   2:45.17 gnome-s+
+   4195 ubuntu    20   0  701568   8108   3856 R   3.3   0.2   0:42.05 gnome-t+
+---
+
+--- Collecting top data at Mon Dec 23 01:17:22 PM EST 2024 ---
+Tasks: 219 total,   4 running, 215 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,     94.5 free,   3821.7 used,     28.9 buff/cache     
+MiB Swap:   3916.0 total,      0.2 free,   3915.8 used.     94.5 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  35.7   0.0   6:41.58 kswapd0
+   4380 ubuntu    20   0 7015312   3.3g   1536 R  19.6  86.6   4:35.97 mem.bash
+   3411 ubuntu    20   0 3826452  43704   6228 R  12.5   1.1   2:48.51 gnome-s+
+   5805 ubuntu    20   0   14504   3072   1024 R  10.7   0.1   0:00.76 top
+   4096 ubuntu    20   0  218740    896    640 S   7.1   0.0   0:51.21 VBoxCli+
+---
+
+--- Collecting top data at Mon Dec 23 01:17:36 PM EST 2024 ---
+Tasks: 219 total,   6 running, 213 sleeping,   0 stopped,   0 zombie
+MiB Mem :   3916.1 total,     87.4 free,   3828.7 used,     28.6 buff/cache     
+MiB Swap:   3916.0 total,      0.1 free,   3915.9 used.     87.4 avail Mem 
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--- Top 5 processes ---
+     53 root      20   0       0      0      0 R  96.3   0.0   7:00.09 kswapd0
+   4380 ubuntu    20   0 7024816   3.3g    896 R  37.0  86.8   4:39.95 mem.bash
+   3411 ubuntu    20   0 3826452  43832   6356 R  33.3   1.1   2:54.70 gnome-s+
+   5812 ubuntu    20   0   14504   2560    640 R  14.8   0.1   0:01.53 top
+   4195 ubuntu    20   0  701568   7980   3728 S   7.4   0.2   0:45.72 gnome-t+
+---
+

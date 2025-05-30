@@ -1,0 +1,14 @@
+start: s
+accept: ac
+reject: rj
+blank: _
+s _ -> ac _ ^
+s 0 -> n _ >
+n 0 -> s _ >
+n _ -> rj _ >
+
+
+___=10+10
+__0=1x+1x
+_
+

@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/sergey/CLionProjects/AandDS/cmake-build-debug",
+	"dir-cur-src" : "/home/sergey/CLionProjects/AandDS",
+	"dir-top-bld" : "/home/sergey/CLionProjects/AandDS/cmake-build-debug",
+	"dir-top-src" : "/home/sergey/CLionProjects/AandDS",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/sergey/CLionProjects/AandDS/cmake-build-debug/CMakeFiles/AandDS.dir"
+}

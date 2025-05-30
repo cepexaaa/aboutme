@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/sergey/CLionProjects/DM_Lab1_Sem4/cmake-build-debug",
+	"dir-cur-src" : "/home/sergey/CLionProjects/DM_Lab1_Sem4",
+	"dir-top-bld" : "/home/sergey/CLionProjects/DM_Lab1_Sem4/cmake-build-debug",
+	"dir-top-src" : "/home/sergey/CLionProjects/DM_Lab1_Sem4",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/sergey/CLionProjects/DM_Lab1_Sem4/cmake-build-debug/CMakeFiles/DM_Lab1_Sem4.dir"
+}
