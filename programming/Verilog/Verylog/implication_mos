@@ -1,0 +1,78 @@
+#! /c/Source/iverilog-install/bin/vvp
+:ivl_version "12.0 (devel)" "(s20150603-1539-g2693dd32b)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "C:\iverilog\lib\ivl\system.vpi";
+:vpi_module "C:\iverilog\lib\ivl\vhdl_sys.vpi";
+:vpi_module "C:\iverilog\lib\ivl\vhdl_textio.vpi";
+:vpi_module "C:\iverilog\lib\ivl\v2005_math.vpi";
+:vpi_module "C:\iverilog\lib\ivl\va_math.vpi";
+S_000001ff12e7da40 .scope module, "implication_mos" "implication_mos" 2 97;
+ .timescale 0 0;
+    .port_info 0 /INPUT 1 "a";
+    .port_info 1 /INPUT 1 "b";
+    .port_info 2 /OUTPUT 1 "out";
+o000001ff12d6af98 .functor BUFZ 1, C4<z>; HiZ drive
+v000001ff12d62840_0 .net "a", 0 0, o000001ff12d6af98;  0 drivers
+o000001ff12d6b0b8 .functor BUFZ 1, C4<z>; HiZ drive
+v000001ff12d631a0_0 .net "b", 0 0, o000001ff12d6b0b8;  0 drivers
+RS_000001ff12d6aff8 .resolv tri, L_000001ff12d63c10, L_000001ff12d63900;
+v000001ff12d63420_0 .net8 "notout", 0 0, RS_000001ff12d6aff8;  2 drivers, strength-aware
+RS_000001ff12d6b268 .resolv tri, L_000001ff12d63ba0, L_000001ff12d63c80;
+v000001ff12d63240_0 .net8 "out", 0 0, RS_000001ff12d6b268;  2 drivers, strength-aware
+S_000001ff12e7dbd0 .scope module, "not_gate1" "not_gate" 2 103, 2 108 0, S_000001ff12e7da40;
+ .timescale 0 0;
+    .port_info 0 /INPUT 1 "a";
+    .port_info 1 /OUTPUT 1 "out";
+L_000001ff12e76c40 .functor BUFT 1, C8<771>, C4<0>, C4<0>, C4<0>;
+L_000001ff12d63c10 .functor PMOS 1, L_000001ff12e76c40, o000001ff12d6af98, C4<0>, C4<0>;
+L_000001ff12e76ae0 .functor BUFT 1, C8<770>, C4<0>, C4<0>, C4<0>;
+L_000001ff12d63900 .functor NMOS 1, L_000001ff12e76ae0, o000001ff12d6af98, C4<0>, C4<0>;
+v000001ff12d657d0_0 .net "a", 0 0, o000001ff12d6af98;  alias, 0 drivers
+v000001ff12e76700_0 .net8 "gnd", 0 0, L_000001ff12e76ae0;  1 drivers, strength-aware
+v000001ff12d65870_0 .net8 "out", 0 0, RS_000001ff12d6aff8;  alias, 2 drivers, strength-aware
+v000001ff12d627a0_0 .net8 "pwr", 0 0, L_000001ff12e76c40;  1 drivers, strength-aware
+S_000001ff12d65910 .scope module, "or_gate1" "or_gate" 2 104, 2 135 0, S_000001ff12e7da40;
+ .timescale 0 0;
+    .port_info 0 /INPUT 1 "a";
+    .port_info 1 /INPUT 1 "b";
+    .port_info 2 /OUTPUT 1 "out";
+v000001ff12d62c00_0 .net8 "a", 0 0, RS_000001ff12d6aff8;  alias, 2 drivers, strength-aware
+v000001ff12d62de0_0 .net "b", 0 0, o000001ff12d6b0b8;  alias, 0 drivers
+RS_000001ff12d6b118 .resolv tri, L_000001ff12d639e0, L_000001ff12d637b0, L_000001ff12d63890;
+v000001ff12d62fc0_0 .net8 "nor_out", 0 0, RS_000001ff12d6b118;  3 drivers, strength-aware
+v000001ff12d63100_0 .net8 "out", 0 0, RS_000001ff12d6b268;  alias, 2 drivers, strength-aware
+S_000001ff12d65aa0 .scope module, "nor_gate1" "nor_gate" 2 141, 2 119 0, S_000001ff12d65910;
+ .timescale 0 0;
+    .port_info 0 /INPUT 1 "a";
+    .port_info 1 /INPUT 1 "b";
+    .port_info 2 /OUTPUT 1 "out";
+L_000001ff12d63dd0 .functor BUFT 1, C8<771>, C4<0>, C4<0>, C4<0>;
+L_000001ff12d63b30 .functor PMOS 1, L_000001ff12d63dd0, RS_000001ff12d6aff8, C4<0>, C4<0>;
+L_000001ff12d639e0 .functor PMOS 1, L_000001ff12d63dd0, o000001ff12d6b0b8, C4<0>, C4<0>;
+L_000001ff12d63e40 .functor BUFT 1, C8<770>, C4<0>, C4<0>, C4<0>;
+L_000001ff12d637b0 .functor NMOS 1, L_000001ff12d63e40, RS_000001ff12d6aff8, C4<0>, C4<0>;
+L_000001ff12d63890 .functor NMOS 1, L_000001ff12d63e40, o000001ff12d6b0b8, C4<0>, C4<0>;
+v000001ff12d62ac0_0 .net8 "a", 0 0, RS_000001ff12d6aff8;  alias, 2 drivers, strength-aware
+v000001ff12d62980_0 .net "b", 0 0, o000001ff12d6b0b8;  alias, 0 drivers
+v000001ff12d628e0_0 .net8 "gnd", 0 0, L_000001ff12d63e40;  1 drivers, strength-aware
+v000001ff12d62ca0_0 .net8 "out", 0 0, RS_000001ff12d6b118;  alias, 3 drivers, strength-aware
+v000001ff12d62d40_0 .net8 "pmos1_out", 0 0, L_000001ff12d63b30;  1 drivers, strength-aware
+v000001ff12d62f20_0 .net8 "pwr", 0 0, L_000001ff12d63dd0;  1 drivers, strength-aware
+S_000001ff12e7bc80 .scope module, "not_gate1" "not_gate" 2 142, 2 108 0, S_000001ff12d65910;
+ .timescale 0 0;
+    .port_info 0 /INPUT 1 "a";
+    .port_info 1 /OUTPUT 1 "out";
+L_000001ff12d63eb0 .functor BUFT 1, C8<771>, C4<0>, C4<0>, C4<0>;
+L_000001ff12d63ba0 .functor PMOS 1, L_000001ff12d63eb0, RS_000001ff12d6b118, C4<0>, C4<0>;
+L_000001ff12d63820 .functor BUFT 1, C8<770>, C4<0>, C4<0>, C4<0>;
+L_000001ff12d63c80 .functor NMOS 1, L_000001ff12d63820, RS_000001ff12d6b118, C4<0>, C4<0>;
+v000001ff12d62a20_0 .net8 "a", 0 0, RS_000001ff12d6b118;  alias, 3 drivers, strength-aware
+v000001ff12d62b60_0 .net8 "gnd", 0 0, L_000001ff12d63820;  1 drivers, strength-aware
+v000001ff12d62e80_0 .net8 "out", 0 0, RS_000001ff12d6b268;  alias, 2 drivers, strength-aware
+v000001ff12d63060_0 .net8 "pwr", 0 0, L_000001ff12d63eb0;  1 drivers, strength-aware
+# The file index is used to find the file name in the following table.
+:file_names 3;
+    "N/A";
+    "<interactive>";
+    "implication.v";

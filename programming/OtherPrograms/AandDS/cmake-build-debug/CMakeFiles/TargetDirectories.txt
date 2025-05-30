@@ -1,3 +1,0 @@
-/home/sergey/CLionProjects/AandDS/cmake-build-debug/CMakeFiles/AandDS.dir
-/home/sergey/CLionProjects/AandDS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sergey/CLionProjects/AandDS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

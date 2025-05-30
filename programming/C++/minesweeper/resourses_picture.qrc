@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resourses_picture">
+        <file>mine.png</file>
+        <file>number_0.png</file>
+        <file>number_1.png</file>
+        <file>number_2.png</file>
+        <file>number_3.png</file>
+        <file>number_4.png</file>
+        <file>number_5.png</file>
+        <file>number_6.png</file>
+        <file>number_7.png</file>
+        <file>number_8.png</file>
+        <file>unopened_square.png</file>
+        <file>flag.png</file>
+        <file>mine_lastPressed.png</file>
+        <file>New_Game.png</file>
+        <file>Peek.png</file>
+    </qresource>
+</RCC>

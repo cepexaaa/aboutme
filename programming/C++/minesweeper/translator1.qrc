@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/translator">
+        <file>minesweeper_en_EN.qm</file>
+        <file>minesweeper_ru_RU.qm</file>
+        <file>minesweeper_fr_FR.qm</file>
+    </qresource>
+</RCC>
