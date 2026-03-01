@@ -1,0 +1,56 @@
+{
+  "files": [
+    "part1.txt",
+    "part2.txt"
+  ],
+  "totalRequestsCount": 256,
+  "responseSizeInBytes": {
+    "average": 206.05,
+    "max": 3318,
+    "p95": 490
+  },
+  "resources": [
+    {
+      "resource": "/downloads/product_1",
+      "totalRequestsCount": 145
+    },
+    {
+      "resource": "/downloads/product_2",
+      "totalRequestsCount": 111
+    }
+  ],
+  "responseCodes": [
+    {
+      "code": 304,
+      "totalResponsesCount": 139
+    },
+    {
+      "code": 404,
+      "totalResponsesCount": 103
+    },
+    {
+      "code": 200,
+      "totalResponsesCount": 14
+    }
+  ],
+  "requestsPerDate": [
+    {
+      "date": "2015-05-01",
+      "weekday": "Friday",
+      "totalRequestsCount": 1,
+      "totalRequestsPercentage": 0.39
+    },
+    {
+      "date": "2015-05-17",
+      "weekday": "Sunday",
+      "totalRequestsCount": 255,
+      "totalRequestsPercentage": 99.61
+    }
+  ],
+  "uniqueProtocols": [
+    "HTTP/1.0",
+    "HTTP/1.1",
+    "HTTP/2.1",
+    "grpc"
+  ]
+}

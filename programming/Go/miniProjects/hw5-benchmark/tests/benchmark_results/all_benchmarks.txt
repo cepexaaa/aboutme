@@ -1,0 +1,57 @@
+goos: linux
+goarch: amd64
+pkg: gitlab.education.tbank.ru/backend-academy-go-2025/homeworks/hw5-benchmark/tests/benchmark
+cpu: 12th Gen Intel(R) Core(TM) i5-12450H
+BenchmarkStudentName_Direct-12                    	1000000000	         0.2542 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Direct-12                    	1000000000	         0.2798 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Direct-12                    	1000000000	         0.2484 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Interface-12                 	1000000000	         0.3497 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Interface-12                 	1000000000	         0.2630 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Interface-12                 	1000000000	         0.2757 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_MethodValue-12               	1000000000	         2.537 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_MethodValue-12               	1000000000	         2.551 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_MethodValue-12               	1000000000	         2.552 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_MethodExpression-12          	1000000000	         0.3968 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_MethodExpression-12          	1000000000	         0.4274 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_MethodExpression-12          	1000000000	         0.3631 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Reflection-12                	 7343436	       768.4 ns/op	     152 B/op	       6 allocs/op
+BenchmarkStudentName_Reflection-12                	 7288942	       731.5 ns/op	     152 B/op	       6 allocs/op
+BenchmarkStudentName_Reflection-12                	 7944130	       719.8 ns/op	     152 B/op	       6 allocs/op
+BenchmarkStudentName_ReflectionPrepared-12        	18276046	       320.6 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_ReflectionPrepared-12        	16922456	       342.3 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_ReflectionPrepared-12        	16728190	       352.0 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_ReflectionType-12            	17331297	       333.1 ns/op	      40 B/op	       2 allocs/op
+BenchmarkStudentName_ReflectionType-12            	15424578	       327.4 ns/op	      40 B/op	       2 allocs/op
+BenchmarkStudentName_ReflectionType-12            	18241507	       286.8 ns/op	      40 B/op	       2 allocs/op
+BenchmarkStudentName_ReflectionInterface-12       	16774642	       308.3 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_ReflectionInterface-12       	17234242	       310.9 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_ReflectionInterface-12       	16608469	       309.0 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_TypeAssertion-12             	1000000000	         0.2425 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_TypeAssertion-12             	1000000000	         0.2431 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_TypeAssertion-12             	1000000000	         0.2421 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_InterfaceTypeAssertion-12    	1000000000	         2.609 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_InterfaceTypeAssertion-12    	1000000000	         2.611 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_InterfaceTypeAssertion-12    	1000000000	         2.604 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCalculator_Add_Direct-12                 	1000000000	         0.2507 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCalculator_Add_Direct-12                 	1000000000	         0.2550 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCalculator_Add_Direct-12                 	1000000000	         0.2432 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCalculator_Add_Reflection-12             	15597517	       367.0 ns/op	      40 B/op	       3 allocs/op
+BenchmarkCalculator_Add_Reflection-12             	15202599	       370.0 ns/op	      40 B/op	       3 allocs/op
+BenchmarkCalculator_Add_Reflection-12             	15017091	       372.7 ns/op	      40 B/op	       3 allocs/op
+BenchmarkPointerStudentName_Direct-12             	1000000000	         0.2697 ns/op	       0 B/op	       0 allocs/op
+BenchmarkPointerStudentName_Direct-12             	1000000000	         0.2648 ns/op	       0 B/op	       0 allocs/op
+BenchmarkPointerStudentName_Direct-12             	1000000000	         0.2524 ns/op	       0 B/op	       0 allocs/op
+BenchmarkPointerStudentName_Reflection-12         	18022663	       312.8 ns/op	      48 B/op	       3 allocs/op
+BenchmarkPointerStudentName_Reflection-12         	16763047	       315.7 ns/op	      48 B/op	       3 allocs/op
+BenchmarkPointerStudentName_Reflection-12         	16735005	       314.1 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_Direct_Allocs-12             	1000000000	         0.2478 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Direct_Allocs-12             	1000000000	         0.2639 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Direct_Allocs-12             	1000000000	         0.2694 ns/op	       0 B/op	       0 allocs/op
+BenchmarkStudentName_Reflection_Allocs-12         	18680286	       310.1 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_Reflection_Allocs-12         	17493690	       310.7 ns/op	      48 B/op	       3 allocs/op
+BenchmarkStudentName_Reflection_Allocs-12         	17088492	       309.6 ns/op	      48 B/op	       3 allocs/op
+BenchmarkDifferentStudents-12                     	1000000000	         1.015 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDifferentStudents-12                     	1000000000	         1.020 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDifferentStudents-12                     	1000000000	         1.014 ns/op	       0 B/op	       0 allocs/op
+PASS
+ok  	gitlab.education.tbank.ru/backend-academy-go-2025/homeworks/hw5-benchmark/tests/benchmark	152.118s

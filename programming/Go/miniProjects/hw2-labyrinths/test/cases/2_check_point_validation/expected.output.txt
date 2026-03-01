@@ -1,0 +1,6 @@
+you are using unknown values for this labyrinth
+uncorrect start coordinates, expected format: x,y
+Uncorrect input parametrs. Example to run
+Usage:
+  generate --algorithm=dfs --width=10 --height=10 --output=maze.txt
+  solve --algorithm=dijkstra --file=maze.txt --start=0,0 --end=9,9 --output=solution.txt

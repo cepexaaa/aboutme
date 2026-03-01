@@ -1,0 +1,1 @@
+go run ./cmd/app solve --algorithm=astar --file=./tests/cases/2_check_point_validation/maze.txt --start=11 --end=9,9 --output=./tests/tmp/output.txt

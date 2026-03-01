@@ -1,0 +1,8 @@
+========= Set Game Params ===========
+---------    language     -----------
+ en
+ ru
+ random
+
+Press ENTER to continue
+Press ESC to exit

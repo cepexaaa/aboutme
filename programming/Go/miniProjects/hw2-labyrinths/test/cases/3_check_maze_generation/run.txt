@@ -1,0 +1,1 @@
+go run ./cmd/app generate -algorithm dfs -height 3 -width 3 -output=./tests/tmp/3_check_maze_generation.txt

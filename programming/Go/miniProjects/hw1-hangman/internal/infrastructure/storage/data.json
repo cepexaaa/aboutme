@@ -1,0 +1,334 @@
+{
+  "ru": {
+    "easy": [
+      {
+        "name": "уголь",
+        "hints": [
+          "Изначально чёрный, когда используется — красный, в итоге серый",
+          "То ли дерево, то ли камень",
+          "Используется для отопления и в металлургии"
+        ]
+      },
+      {
+        "name": "никель",
+        "hints": [
+          "Металл, используется в производстве монет",
+          "Тихоходное серое серебро",
+          "Элемент таблицы Менделеева"
+        ]
+      },
+      {
+        "name": "молоко",
+        "hints": [
+          "Белая жидкость от коровы",
+          "Используют в кашу, чай и кофе",
+          "Полезно для костей"
+        ]
+      },
+      {
+        "name": "солнце",
+        "hints": [
+          "Горячий светящийся шар в небе",
+          "Дарит свет и тепло днём",
+          "Звезда нашей Солнечной системы"
+        ]
+      },
+      {
+        "name": "яблоко",
+        "hints": [
+          "Фрукт с красной или зелёной кожурой",
+          "Его называют «фруктом знаний»",
+          "Имеет семейство розовых"
+        ]
+      },
+      {
+        "name": "кот",
+        "hints": [
+          "Маленькое домашнее животное",
+          "Любит мурлыкать",
+          "Ловит мышей"
+        ]
+      },
+      {
+        "name": "река",
+        "hints": [
+          "Течёт по земле, в неё впадают притоки",
+          "Может быть быстрой или медленной",
+          "На ней часто строят мосты"
+        ]
+      },
+      {
+        "name": "огонь",
+        "hints": [
+          "Красный, оранжевый и желтый пламень",
+          "Используется для приготовления пищи",
+          "Опасен, но нужен человеку"
+        ]
+      },
+      {
+        "name": "дерево",
+        "hints": [
+          "Растёт в лесу, имеет ствол и листья",
+          "Птицы строят на нём гнёзда",
+          "Дает тень в жаркий день"
+        ]
+      },
+      {
+        "name": "книга",
+        "hints": [
+          "Лист бумаги с текстом внутри",
+          "Источник знаний и историй",
+          "Можно читать и собирать на полке"
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "name": "гипербола",
+        "hints": [
+          "Математическая кривая с двумя ветвями",
+          "Используется в геометрии и алгебре",
+          "Название звучит как «преувеличение» в литературе"
+        ]
+      },
+      {
+        "name": "дифференциал",
+        "hints": [
+          "Производная функция в математике",
+          "Используют в физике и технике",
+          "Связан с понятием малых изменений"
+        ]
+      },
+      {
+        "name": "парадигма",
+        "hints": [
+          "Образец или модель для подражания",
+          "В науке определяет способ мышления",
+          "Влияет на развитие теорий и идей"
+        ]
+      },
+      {
+        "name": "катарсис",
+        "hints": [
+          "Очистительное эмоциональное переживание",
+          "Происходит в театре и литературе",
+          "Древнегреческое слово"
+        ]
+      },
+      {
+        "name": "алгоритм",
+        "hints": [
+          "Пошаговая инструкция для решения задачи",
+          "Используется в программировании",
+          "Начинается на «а»"
+        ]
+      },
+      {
+        "name": "метафора",
+        "hints": [
+          "Перенос значения с одного предмета на другой",
+          "Часто применяется в поэзии",
+          "Помогает создавать яркие образы"
+        ]
+      },
+      {
+        "name": "эзотерика",
+        "hints": [
+          "Учения тайного знания",
+          "Отношение к мистике и духовности",
+          "Непонятна для всех"
+        ]
+      },
+      {
+        "name": "ренессанс",
+        "hints": [
+          "Эпоха возрождения искусства и науки",
+          "Начался в Европе в XV веке",
+          "Связан с именами Леонардо да Винчи и Микеланджело"
+        ]
+      },
+      {
+        "name": "синергия",
+        "hints": [
+          "Совместное действие для лучшего результата",
+          "Принцип работы команды",
+          "Суммарный эффект больше суммы частей"
+        ]
+      },
+      {
+        "name": "экзальтация",
+        "hints": [
+          "Возвышенное настроение или состояние",
+          "Связана с высокой эмоциональной нагрузкой",
+          "Может быть чрезмерной демонстрацией чувств"
+        ]
+      }
+    ]
+  },
+  "en": {
+    "easy": [
+      {
+        "name": "coal",
+        "hints": [
+          "Initially black, turns red when burning",
+          "Used as fuel",
+          "A sedimentary rock"
+        ]
+      },
+      {
+        "name": "nickel",
+        "hints": [
+          "A silvery-white metal",
+          "Used in coins and batteries",
+          "Element number 28"
+        ]
+      },
+      {
+        "name": "milk",
+        "hints": [
+          "White liquid produced by cows",
+          "Used in coffee and cereal",
+          "Good for bones"
+        ]
+      },
+      {
+        "name": "sun",
+        "hints": [
+          "A hot glowing ball in the sky",
+          "Gives light and warmth during the day",
+          "The star at the center of our solar system"
+        ]
+      },
+      {
+        "name": "apple",
+        "hints": [
+          "A fruit, usually red or green",
+          "Known as the fruit of knowledge",
+          "Grows on trees"
+        ]
+      },
+      {
+        "name": "cat",
+        "hints": [
+          "A small domestic animal",
+          "Likes to purr",
+          "Catches mice"
+        ]
+      },
+      {
+        "name": "river",
+        "hints": [
+          "A flowing body of water",
+          "Can be fast or slow",
+          "Often crossed by bridges"
+        ]
+      },
+      {
+        "name": "fire",
+        "hints": [
+          "Red, orange, and yellow flames",
+          "Used for cooking",
+          "Dangerous but necessary"
+        ]
+      },
+      {
+        "name": "tree",
+        "hints": [
+          "Grows in forests, has trunk and leaves",
+          "Birds build nests on it",
+          "Provides shade on hot days"
+        ]
+      },
+      {
+        "name": "book",
+        "hints": [
+          "Pages with printed text",
+          "A source of stories and knowledge",
+          "Can be read and collected"
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "name": "hyperbola",
+        "hints": [
+          "A mathematical curve with two branches",
+          "Used in geometry and algebra",
+          "Also means exaggeration in literature"
+        ]
+      },
+      {
+        "name": "differential",
+        "hints": [
+          "A mathematical derivative",
+          "Used in physics and engineering",
+          "Related to small changes"
+        ]
+      },
+      {
+        "name": "paradigm",
+        "hints": [
+          "A model or pattern to follow",
+          "Defines a way of thinking in science",
+          "Influences theories and ideas"
+        ]
+      },
+      {
+        "name": "catharsis",
+        "hints": [
+          "Emotional purification experience",
+          "Occurs in theater and literature",
+          "A Greek word"
+        ]
+      },
+      {
+        "name": "algorithm",
+        "hints": [
+          "Step-by-step problem-solving procedure",
+          "Used in programming",
+          "Starts with 'a'"
+        ]
+      },
+      {
+        "name": "metaphor",
+        "hints": [
+          "A figure of speech transferring meaning",
+          "Common in poetry",
+          "Creates vivid images"
+        ]
+      },
+      {
+        "name": "esotericism",
+        "hints": [
+          "Teachings of hidden knowledge",
+          "Related to mysticism and spirituality",
+          "Not understood by everyone"
+        ]
+      },
+      {
+        "name": "renaissance",
+        "hints": [
+          "Era of art and science revival",
+          "Started in Europe in the 15th century",
+          "Linked to Leonardo da Vinci and Michelangelo"
+        ]
+      },
+      {
+        "name": "synergy",
+        "hints": [
+          "Joint action for better results",
+          "Teamwork principle",
+          "The whole is greater than the sum of parts"
+        ]
+      },
+      {
+        "name": "exaltation",
+        "hints": [
+          "A state of high emotion",
+          "Associated with strong feelings",
+          "Can be an excessive display of emotion"
+        ]
+      }
+    ]
+  }
+}

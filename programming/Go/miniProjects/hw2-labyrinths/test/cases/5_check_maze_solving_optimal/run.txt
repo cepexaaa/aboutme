@@ -1,0 +1,1 @@
+go run ./cmd/app solve --algorithm=optimal --file=./test/cases/5_check_maze_solving_optimal/maze.txt --start=1,1 --end=9,9 --output=./test/tmp/5_check_maze_solving.txt

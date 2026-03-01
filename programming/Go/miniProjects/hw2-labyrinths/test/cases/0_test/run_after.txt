@@ -1,0 +1,1 @@
+rm -rf tests/cases/0_test/tmp/

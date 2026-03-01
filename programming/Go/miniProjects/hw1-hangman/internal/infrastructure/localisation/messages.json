@@ -1,0 +1,16 @@
+{
+    "ru": {
+        "gameInfo": "У тебя осталось %d попыток \n    Введи новую букву\n    Если хочешь подсказку, то введи '+'\n    Нажмите ESC для выхода\n",
+        "usingArroes": "Используй стрелки вверх и вниз, чтобы выбрать\n",
+        "win": "Ты выйглал!",
+        "lose": "Игра окончена!\nОтвет - ",
+        "hint": "    Подсказка: "
+    },
+    "en": {
+        "gameInfo": "You have %d attempts yet\n    Enter new letter\n    If you want a hint, you will enter '+'\n    Press ESC for exit\n",
+        "usingArroes": "Use down arrow and up arrow to make a choice\n",
+        "win": "You are win!",
+        "lose": "Game over!\nAnswer is - ",
+        "hint": "    Hint: "
+    }
+}
